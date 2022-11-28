@@ -19,10 +19,6 @@ https://vdn.libreflix.org/video/coisa-malu/coisa-malu.720.mp4
 https://vdn.libreflix.org/video/sintel/sintel.360.mp4
 #EXTINF:0,Lú  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://vdn.libreflix.org/covers/media/53aa0ea0-0b91-11ec-9742-4bf51aa62f72bcb56990-eae8-11eb-b74e-f33afdab038ecapa_filme_wide.jpg?resize=480,270&crop=entropy" -Lú
 https://vdn.libreflix.org/video/lu/lu.360.mp4
-#EXTINF:0,Apocalipse tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/quantum-apocalypse_pt/quantum-apocalypse_pt_200x300.jpg" -Apocalipse
-https://play.prod.gcp.vix.services/quantum-apocalypse_pt/quantum-apocalypse_pt_1-1/thumbs_640x360.m3u8
-#EXTINF:0,Depos do Apocalipse tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/hostile_pt/hostile_pt_200x300.jpg" -Depos do Apocalipse 
-https://play.prod.gcp.vix.services/hostile_pt/hostile_pt_1-1/thumbs_320x180.m3u8
 #EXTINF:0,Jogo Sujo  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/swelter_pt/swelter_pt_200x300.jpg" -Jogo Sujo
 https://play.prod.gcp.vix.services/swelter_pt/swelter_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,Mussum, Um Filme Do Cacildis  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/mussum-cacildis_pt/mussum-cacildis_pt_200x300.jpg" -Mussum, Um Filme Do Cacildis
