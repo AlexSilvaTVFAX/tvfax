@@ -202,7 +202,6 @@ https://archive.org/download/xena-a-princesa-guerreira/ep24.mp4
 #EXTINF:-1 tvg-id=" iddocanaldeinfantil " group-title="
 #EXTINF:0,PEPPA PIG tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/28/a1/8e/28a18e4aaa9a62555cd8ffe4cf194bc9.gif" -PEPPA PIG
 https://youtu.be/6xBFTOVef2M
-
 #EXTINF:0,Enfrentando a barra tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/raising-bar_pt/raising-bar_pt_200x300.jpg" -Enfrentando a barra
 https://play.prod.gcp.vix.services/raising-bar_pt/raising-bar_pt_1-1/thumbs_320x180.m3u8
 #EXTINF:0,Um Acampamento do Barulho tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/camp-kids_pt/camp-kids_pt_200x300.jpg" -Um Acampamento do Barulho
@@ -223,7 +222,7 @@ https://play.prod.gcp.vix.services/mans-best-friend_pt/mans-best-friend_pt_1-1/p
 https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,Cara, Cadê Meu Cachorro tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="hhttps://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/wheres-my-dog_pt/wheres-my-dog_pt_200x300.jpg" -Cara, Cadê Meu Cachorro
 https://play.prod.gcp.vix.services/wheres-my-dog_pt/wheres-my-dog_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:-1 tvg-id="iddocanaldeinfantil" group-title="tvaovivo" tvg-name="carton gospel" tvg-logo="https://i.pinimg.com/originals/41/0f/62/410f62ff5ae5f876cf6d63a734e1ac55.gif",carton gospel
+#EXTINF:-1 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-name="carton gospel" tvg-logo="https://i.pinimg.com/originals/41/0f/62/410f62ff5ae5f876cf6d63a734e1ac55.gif",carton gospel
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w501123391.m3u8
 #EXTINF:0,jetsons tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/Ga2ECGr9ipAAAAAd/george-jetson-the-jetsons.gif" -jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w975554247.m3u8
@@ -296,7 +295,6 @@ https://play.prod.gcp.vix.services/antboy-3_pt/antboy-3_pt_1-1/hls_2500.m3u8
 
 #EXTINF:0,Os Crimes de Limehouse tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/limehouse-golem_pt/limehouse-golem_pt_200x300.jpg" -Os Crimes de Limehouse
 https://play.prod.gcp.vix.services/limehouse-golem_pt/limehouse-golem_pt_1-1/thumbs_640x360.m3u8
-
 #EXTINF:0,Submersos tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/submerged_pt/submerged_pt_200x300.jpg" -Submersos
 https://play.prod.gcp.vix.services/submerged_pt/submerged_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,Lua Negra tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/dark-moon-rising_pt/dark-moon-rising_pt_200x300.jpg" -Lua Negra
@@ -398,12 +396,29 @@ https://stmv1.srvif.com/classeries/classeries/chunklist_w580022377.m3u8
 https://alanza.iptv2022.com/TV_SERIE/tracks-v1a1/mono.m3u8
 #EXTINF:0,MULHER BIONICA tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://media.tenor.com/d3s51ZP-KDAAAAAM/bionic-woman.gif" -MULHER BIONICA
 https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8
+#EXTINF:0,Temporada 1 - Episódio 1: Certo é Certo tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 1: Certo é Certo
+https://e-9.dokicloud.one/_v8/1641da3b74a6cf662e3b86495826368103a140be0595ddcb65c930eb535422146bf96fbbcacc6f1f866608eb43169b8f4c650b1477a4b55e620a17a01deecbde9f09e23c0703a3dc3a1497fdcf64dc2339989715c277d8160a566a1bddc5124e1f7745051fa3e7664f1eb452e086ff3bc23d1adac2b68d1587bc9f2af2f51a34/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 2: Eu te Peguei tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 2: Eu te Peguei
+https://e-2.dokicloud.one/_v8/b42613a3e57adf0fbbf55b4fa467d1aa670fcd92d13889743ce28ef2da75c92f6bfb7839e87bffaeaeaaaf983b9ff5bcdd1c6b26337970fa5020ff305610f6d231065326ffef32eb3088b56c9e68dfa4a05891157041496a94ed59edffb5db432d305d8bba061d57139b928dcfb7c61bf671c68d5460588eeeac68c512120090/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 3: Rat Trap tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 3: Rat Trap
+https://e-1.dokicloud.one/_v8/d539ec17d959508b58075704f859255985750ad372318fdd26cd2c6501d9656cefb54b3bcd36a4dad9653af90ae475f66b95a2a865df4a3cf19bb251d322d104b227598a391cbe2ebdcf1dc575919476ce92a33b0c317014dcf1d67f3cc6650a266bc40e001f3b60df942c6f56ef5077b7f1ab4738d7c86c3a789871cd9214ff/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 4: Bilhete de Ida tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 4: Bilhete de Ida
+https://c-4.dokicloud.one/_v8/a05ca5147b78aa0ef6e86bc4e34a1e15d64363ddc11d569979ce1daa910ab4c39f7f4bf35f3e26776a7747e3f390f73a5bf550d000866df53b776d5066646a5805a7b553383e3daa04c32b64ac4ffcf5449c300e98f49c62bfdc86a8eedebba471fdd90fabea7aa8de38b5dd4796574ea6dab6b09d51d224b7437071f22162c5/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 5: Para que servem os irmaos tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 5: Para que servem os irmaos
+https://e-3.dokicloud.one/_v8/a7757c1b8a70ca520b24a3847245096c2dca28213b0adc8989bd86172f1fe5f765fbf80609edd547e27ae4fa52223939718f3cea30eab5493163f0a556dff6ef71530eb6ea0aa65c042d09c6d127d7371f4fa01867e6ceaf086b6c9437b0cbad50a0010df18e072142c70bd5f115961b9698a1e520fe9eb3a05644bccffdc88d/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 6: Decisao tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 6: Decisao
+https://e-3.dokicloud.one/_v8/ddd9f115d8348e29f22b1adb593b244964ac970e1f035be859f2abc7292779992fd828136d79ea8440e03724b3e47c291bfd0d024821534e2850020ca628ec8b62276ef26b388f982321d545f746becba27933619e54cddf76e2d4a5a95e789b44e21a4aa94c320b4c8ddf242cbd5cc410bcfa95872ff51b6d07979780dd1f2e/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 7: Sangue em suas maos tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 7: Sangue em suas maos
+https://e-3.dokicloud.one/_v8/fdbdde7f2a95777b0f62a8c1253275c0a9b48128236e6cc89fdf98458aadc9c2c85c1ce29c280bb243634b9752e5b9ca99fdde495797ffd3cb7f4dbdda44f375d2b9dd73f6ead7562c3f1df554c9645d29b036f646e5dce9c4168acb6789382fe926d0d17f909b314f84ea2f6192222fa072720aeffb908877123ebd89a79df6/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 8: Minha Palavra é meu vinculo tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 8: Minha Palavra é meu vinculo
+https://e-8.dokicloud.one/_v8/426dd31f1a731714111659b0a1756ce85dcb6258fcfaac3610e9484f8602504f902966eee4accf38b0592e170966e1940fd100e919671a8251e28c008e053ef80e0aaa9474c6a4e926c076dd62dd1b7cab2e8de40aee61bde017ebddc2ef5a50a8019708a004ee7605edffea11db4df56107ea7842ff92092a449bc4725bf1d4/1080/index.m3u8
+
 
 #EXTM3U url-tvg=" http://grade-de-TELEVISÃO.xml "
 
  ############## TELEVISÃO ############## ###   
 
-#EXTINF:-1 tvg-id=" iddocanaldeTV " group-title="
+#EXTINF:-1 tvg-id=" iddocanaldetelevisao" group-title="
 
 #EXTINF:0,CINE LIVRE 2 tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://cdn.videoplasty.com/gif/clapper-board-stock-gif-4060-1024x576.gif" -CINE LIVRE 2
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1442737368.m3u8
@@ -463,13 +478,10 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/767
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/342
 #EXTINF:0,BABY TV tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://media1.giphy.com/media/w4CmfpP5dXo53aHSCA/giphy.gif" -BABY TV
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/881
-
-
 #EXTINF:0,CINEMAX tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://cdn.dribbble.com/users/1593269/screenshots/15348237/cinemax-tv.gif" -CINEMAX
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/239
 #EXTINF:0,CINEMAX tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://cdn.dribbble.com/users/1593269/screenshots/15348237/cinemax-tv.gif" -CINEMAX
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/240
-
 #EXTINF:0,CINE SKY tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://static.wixstatic.com/media/5bc074_4959c5ba1013478c8e6a570d99276532~mv2.gif/v1/fill/w_280,h_280,q_90/5bc074_4959c5ba1013478c8e6a570d99276532~mv2.gif" -CINE SKY
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/754
 #EXTINF:0,CINE SKY tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://static.wixstatic.com/media/5bc074_4959c5ba1013478c8e6a570d99276532~mv2.gif/v1/fill/w_280,h_280,q_90/5bc074_4959c5ba1013478c8e6a570d99276532~mv2.gif" -CINE SKY
@@ -494,7 +506,6 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/760
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/761
 #EXTINF:0,CINE SKY tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://static.wixstatic.com/media/5bc074_4959c5ba1013478c8e6a570d99276532~mv2.gif/v1/fill/w_280,h_280,q_90/5bc074_4959c5ba1013478c8e6a570d99276532~mv2.gif" -CINE SKY
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/763
-
 #EXTINF:0,TC PREMIUMtvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://media2.giphy.com/media/eeiDjLGiOTKjGlXavg/giphy.gif" -TC PREMIUM
 https://googlez03.ml/canais/TelecinePremium/xxTelecinePremiumx_20221113231402_1567_01611348_10000000.json
 #EXTINF:0,REDE PREMIUM TV tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://redepremiumtv.com.br/wp-content/uploads/2020/05/favicon.png" -REDE PREMIUM TV
@@ -527,7 +538,6 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/253
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/255
 #EXTINF:0 HBO  tvg-id="iddocanaldetelevisao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCTCOCVAKTtvx0VVzIvW0K1j4jhtnWnsx9U4Mk1IzyTS1GP4imXuogkD9TvOX9bDpkG7k&usqp=CAU" -HBO
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1000
-
 #EXTINF:0 HBO  tvg-id="iddocanaldetelevisao" tvg-logo="https://www.rd.com/wp-content/uploads/2022/06/hbo-max-tv-shows-opener.gif" -HBO
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/832
 #EXTINF:0 HBO  tvg-id="iddocanaldetelevisao" tvg-logo="https://www.rd.com/wp-content/uploads/2022/06/hbo-max-tv-shows-opener.gif" -HBO
@@ -581,10 +591,9 @@ https://googlez03.ml/canais/DiscoveryWorld/DiscoveryWorld20221114031155_0290_020
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/921
 #EXTINF:0,H2 HD tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.picasion.com/pic92/9f7b708874cdb27efb7b4a86eb4f8f16.gif" -H2 HD
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/10841
-
 #EXTINF:0,Sony tvg-id="iddocanaldetelevisao" tvg-logo="https://media.tenor.com/1Uv5PD3T_mMAAAAC/sony-sony-sony.gif" -Sony
 https://server100.online/sony/tracks-v1a1l1/mono.m3u8?token=007fb7669331c3bf9f88c6faf98e6b95fc885b84-3bcde201e410eb97642397f585de079a-1668393971-1668390371
-#EXTINF:-1 tvg-id="iddocanaldeoavivo" group-title="tvaovivo" tvg-name="TLX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkjtls2KtssZVOw_QXFMuoyeByYAiOFxN0ilMejZ3MpASXaNLyu95zxL__ofM6bxZKrQ&usqp=CAU",TLX HD
+#EXTINF:-1 tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-name="TLX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkjtls2KtssZVOw_QXFMuoyeByYAiOFxN0ilMejZ3MpASXaNLyu95zxL__ofM6bxZKrQ&usqp=CAU",TLX HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w950122583_b1828000_sleng.m3u8
 #EXTINF:0,DisneyChannel tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://thumbs.gfycat.com/UnpleasantMaleAmethystgemclam-max-1mb.gif" -DisneyChannel
 https://googlez03.ml/canais/DisneyChannel/xDisneyChannelxx_20221114025637_1452_02104848_10000000.json
@@ -648,15 +657,12 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108339
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125718
 #EXTINF:0,GOLF CHANNEL tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://thumbs.gfycat.com/UnderstatedShamelessEarwig-max-1mb.gif" -GOLF CHANNEL
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/181538
-
 #EXTINF:0,DISCOVERY CHANNEL tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.gifer.com/BVNC.gif" -DISCOVERY CHANNEL
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/65
 #EXTINF:0,DISCOVERY CHANNEL tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.gifer.com/BVNC.gif" -DISCOVERY CHANNEL
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/66
 #EXTINF:0,DISCOVERY CHANNEL tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.gifer.com/BVNC.gif" -DISCOVERY CHANNEL
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/870
-
-
 #EXTINF:0,DISCOVERY CHANNEL tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.gifer.com/BVNC.gif" -DISCOVERY CHANNEL
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/892
 #EXTINF:0,DISCOVERY CHANNEL tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.gifer.com/BVNC.gif" -DISCOVERY CHANNEL
@@ -717,8 +723,6 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/352
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/856
 #EXTINF:0,DISNEY CHANNEL tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="hhttps://thumbs.gfycat.com/BouncyYawningDugong-size_restricted.gif" -DISNEY CHANNEL
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/883
-
-
 #EXTINF:0,SESC TV tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://seeklogo.com/images/S/sesc-tv-logo-FE78C1CEA7-seeklogo.com.gif" -SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
 #EXTINF:0,TELE CINE ACTION tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://www.netsaopaulo.net/wp-content/uploads/2019/02/telecine-play-fevereiro.gif" -TELE CINE ACTION
@@ -785,7 +789,6 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/229
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1020
 #EXTINF:0 AMC 4K tvg-id="iddocanaldetelevisao" tvg-logo="https://thumbs.gfycat.com/AggressiveLightChihuahua-size_restricted.gif" - AMC 4K
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/918
-
 
 #EXTM3U url-tvg=" http://grade-de-tvaberta.xml "
 
@@ -917,6 +920,7 @@ https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chu
 https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
 #EXTINF:0,TTv Imprensa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.radioimprensa.tv/wp-content/uploads/sites/30/2022/02/cropped-logotipo-1.png" -Tv Imprensa
 https://tv02.zas.media:1936/imprensa/imprensa/chunklist_w881661499.m3u8
+
 
 #EXTM3U url-tvg=" http://grade-de-tvclips.xml "
 
@@ -1100,30 +1104,6 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125719
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125687
 #EXTINF:0,,All Sports  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media.giphy.com/channel_assets/sports/P658KMA9mwy4.gif" -,All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
-#EXTM3U url-tvg=" http://grade-de-brasileiro.xml "            
-
- ############## brasileiro ############## ###                      
-
-#EXTINF:-1 tvg-id=" iddocanaldebrasileiro " group-title="  
-
-#EXTINF:0,Temporada 1 - Episódio 1: Certo é Certo tvg-id="iddocanaldebrasileiro" group-title="brasileiro" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 1: Certo é Certo
-https://e-9.dokicloud.one/_v8/1641da3b74a6cf662e3b86495826368103a140be0595ddcb65c930eb535422146bf96fbbcacc6f1f866608eb43169b8f4c650b1477a4b55e620a17a01deecbde9f09e23c0703a3dc3a1497fdcf64dc2339989715c277d8160a566a1bddc5124e1f7745051fa3e7664f1eb452e086ff3bc23d1adac2b68d1587bc9f2af2f51a34/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 2: Eu te Peguei tvg-id="iddocanaldebrasileiro" group-title="brasileiro" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 2: Eu te Peguei
-https://e-2.dokicloud.one/_v8/b42613a3e57adf0fbbf55b4fa467d1aa670fcd92d13889743ce28ef2da75c92f6bfb7839e87bffaeaeaaaf983b9ff5bcdd1c6b26337970fa5020ff305610f6d231065326ffef32eb3088b56c9e68dfa4a05891157041496a94ed59edffb5db432d305d8bba061d57139b928dcfb7c61bf671c68d5460588eeeac68c512120090/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 3: Rat Trap tvg-id="iddocanaldebrasileiro" group-title="brasileiro" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 3: Rat Trap
-https://e-1.dokicloud.one/_v8/d539ec17d959508b58075704f859255985750ad372318fdd26cd2c6501d9656cefb54b3bcd36a4dad9653af90ae475f66b95a2a865df4a3cf19bb251d322d104b227598a391cbe2ebdcf1dc575919476ce92a33b0c317014dcf1d67f3cc6650a266bc40e001f3b60df942c6f56ef5077b7f1ab4738d7c86c3a789871cd9214ff/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 4: Bilhete de Ida tvg-id="iddocanaldebrasileiro" group-title="brasileiro" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 4: Bilhete de Ida
-https://c-4.dokicloud.one/_v8/a05ca5147b78aa0ef6e86bc4e34a1e15d64363ddc11d569979ce1daa910ab4c39f7f4bf35f3e26776a7747e3f390f73a5bf550d000866df53b776d5066646a5805a7b553383e3daa04c32b64ac4ffcf5449c300e98f49c62bfdc86a8eedebba471fdd90fabea7aa8de38b5dd4796574ea6dab6b09d51d224b7437071f22162c5/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 5: Para que servem os irmaos tvg-id="iddocanaldebrasileiro" group-title="brasileiro" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 5: Para que servem os irmaos
-https://e-3.dokicloud.one/_v8/a7757c1b8a70ca520b24a3847245096c2dca28213b0adc8989bd86172f1fe5f765fbf80609edd547e27ae4fa52223939718f3cea30eab5493163f0a556dff6ef71530eb6ea0aa65c042d09c6d127d7371f4fa01867e6ceaf086b6c9437b0cbad50a0010df18e072142c70bd5f115961b9698a1e520fe9eb3a05644bccffdc88d/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 6: Decisao tvg-id="iddocanaldebrasileiro" group-title="brasileiro" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 6: Decisao
-https://e-3.dokicloud.one/_v8/ddd9f115d8348e29f22b1adb593b244964ac970e1f035be859f2abc7292779992fd828136d79ea8440e03724b3e47c291bfd0d024821534e2850020ca628ec8b62276ef26b388f982321d545f746becba27933619e54cddf76e2d4a5a95e789b44e21a4aa94c320b4c8ddf242cbd5cc410bcfa95872ff51b6d07979780dd1f2e/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 7: Sangue em suas maos tvg-id="iddocanaldebrasileiro" group-title="brasileiro" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 7: Sangue em suas maos
-https://e-3.dokicloud.one/_v8/fdbdde7f2a95777b0f62a8c1253275c0a9b48128236e6cc89fdf98458aadc9c2c85c1ce29c280bb243634b9752e5b9ca99fdde495797ffd3cb7f4dbdda44f375d2b9dd73f6ead7562c3f1df554c9645d29b036f646e5dce9c4168acb6789382fe926d0d17f909b314f84ea2f6192222fa072720aeffb908877123ebd89a79df6/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 8: Minha Palavra é meu vinculo tvg-id="iddocanaldebrasileiro" group-title="brasileiro" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 8: Minha Palavra é meu vinculo
-https://e-8.dokicloud.one/_v8/426dd31f1a731714111659b0a1756ce85dcb6258fcfaac3610e9484f8602504f902966eee4accf38b0592e170966e1940fd100e919671a8251e28c008e053ef80e0aaa9474c6a4e926c076dd62dd1b7cab2e8de40aee61bde017ebddc2ef5a50a8019708a004ee7605edffea11db4df56107ea7842ff92092a449bc4725bf1d4/1080/index.m3u8
-
 #EXTM3U url-tvg=" http://grade-de-ogordoeomagro.xml "
 
  ############## ogordoeomagro ############## ###   
@@ -1286,9 +1266,6 @@ https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%2
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20SEM%20IGUAL.mp4
 
-
-
-
 #EXTM3U url-tvg=" http://grade-de-radio.xml "
 
  ############## radio ################ #   
@@ -1320,40 +1297,6 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
 #EXTINF:0,Stingray Today's Latin Pop tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/todays-latin-pop_thumbh_20200718_001031.jpg" -Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-
-#EXTINF:0, Antena 1
-#EXTVLCOPT:network-caching=1000
-http://antena1.newradio.it/stream2?ext=.mp3
-#EXTINF:0, Itapoan FM
-#EXTVLCOPT:network-caching=1000
-http://streaming.livecenter.com.br:9300/stream/1/
-#EXTINF:59, Atlantida FM
-#EXTVLCOPT:network-caching=1000
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114
-#EXTINF:0, Guaiba FM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8007/app
-#EXTINF:0, S30 MaxCast Web Rádio
-#EXTVLCOPT:network-caching=1000
-http://s30.maxcast.com.br:8190/live
-#EXTINF:0, METROPOLITANA FM AO VIVO
-#EXTVLCOPT:network-caching=1000
-http://ice.paineldj3.com.br:8004/stream
-#EXTINF:0, RÁDIO 104 FM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8651/mp3
-#EXTINF:59, RÁDIO ATLÂNTIDA FM
-#EXTVLCOPT:network-caching=1000
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:0, RÁDIO CAIÇARA FM/AM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8654/mp3
-#EXTINF:0, RÁDIO CAPÃO FM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8656/mp3
-#EXTINF:0, RÁDIO CONTINENTAL FM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8650/mp3
 #EXTINF:0, RÁDIO ELDORADO FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://eldorado87.com.br/wp-content/uploads/2022/03/logoeldoradofm-288x300.png" - RÁDIO ELDORADO FM
 http://cast4.audiostream.com.br:8652/mp3
 #EXTINF:0,RÁDIO FM PREMIUM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://pbs.twimg.com/profile_images/722893999531536384/ZiynlZVB_400x400.jpg" -RÁDIO FM PREMIUM
@@ -1459,6 +1402,39 @@ https://f53.fabricahost.com.br/capitalfmsp?f=1667683638N01GH4V1PW7WGVGDYY4Q2CXBT
 #EXTINF:0, radio Hits tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmea2aw7mzsg.jpg" -radio Hits
 https://ice1.streeemer.com:8020/radio.mp3
 #EXTINF:29,Marilia Mendonça Antigas 
+#EXTINF:0, Antena 1
+#EXTVLCOPT:network-caching=1000
+http://antena1.newradio.it/stream2?ext=.mp3
+#EXTINF:0, Itapoan FM
+#EXTVLCOPT:network-caching=1000
+http://streaming.livecenter.com.br:9300/stream/1/
+#EXTINF:59, Atlantida FM
+#EXTVLCOPT:network-caching=1000
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114
+#EXTINF:0, Guaiba FM
+#EXTVLCOPT:network-caching=1000
+http://cast4.audiostream.com.br:8007/app
+#EXTINF:0, S30 MaxCast Web Rádio
+#EXTVLCOPT:network-caching=1000
+http://s30.maxcast.com.br:8190/live
+#EXTINF:0, METROPOLITANA FM AO VIVO
+#EXTVLCOPT:network-caching=1000
+http://ice.paineldj3.com.br:8004/stream
+#EXTINF:0, RÁDIO 104 FM
+#EXTVLCOPT:network-caching=1000
+http://cast4.audiostream.com.br:8651/mp3
+#EXTINF:59, RÁDIO ATLÂNTIDA FM
+#EXTVLCOPT:network-caching=1000
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:0, RÁDIO CAIÇARA FM/AM
+#EXTVLCOPT:network-caching=1000
+http://cast4.audiostream.com.br:8654/mp3
+#EXTINF:0, RÁDIO CAPÃO FM
+#EXTVLCOPT:network-caching=1000
+http://cast4.audiostream.com.br:8656/mp3
+#EXTINF:0, RÁDIO CONTINENTAL FM
+#EXTVLCOPT:network-caching=1000
+http://cast4.audiostream.com.br:8650/mp3
 https://youtu.be/y9gL62SrcK4
 #EXTINF:30,Som Que Alimenta - Top Louvores 2022 - As Melhores Músicas do Gospel - Rádio Gospel Online 24 Horas Ao Vivo
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667675510/ei/FWFmY_mnLuai4dUPioarqAs/ip/45.167.180.31/id/YVpKpueQ7hk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPmfP7Shk8EsPg7Yxs--YhNcqOAVgsEJ8Z9erKjH61FTAiEAsi3qHiMo-GafBBuof4WYj89ugAL81mk777WakvnV3is%3D/file/index.m3u8
