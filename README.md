@@ -14,7 +14,8 @@ https://cdnhd.iblups.com/hls/JcG48OdGmW.m3u8
 
 #EXTINF:0,CINE LIVRE 2 tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://cdn.videoplasty.com/gif/clapper-board-stock-gif-4060-1024x576.gif" -CINE LIVRE 2
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1442737368.m3u8
-
+#EXTINF:0,Cine Natal | Brasil: cinematvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_MN8Xlgh9JGYaIJDdS-HiBFzAB26Ugv0dL4XNP=s900-c-k-c0x00ffffff-no-rj" -Cine Natal | Brasil: cinema
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a11ce2a4559000782a583/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
 #EXTINF:0,AXN tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://adslfibra.pt/sites/adslfibra.pt/files/images/axn-programacao-825x293.gif" - AXN
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/233
 #EXTINF:0,AXN tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://adslfibra.pt/sites/adslfibra.pt/files/images/axn-programacao-825x293.gif" - AXN
@@ -29,7 +30,6 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/62
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/994
 #EXTINF:0,ANIMAL PLANET tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://cdn.myportfolio.com/2cb0938e-1725-4a29-85cb-c492ab3859dd/12a653cb-1bd0-4caf-b1a4-23f7e0fb4fd2_rw_1200.gif?h=bf5a01834c519068262cf9eefffcf243" -ANIMAL PLANET
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/871
-
 #EXTINF:0,Telemax tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/Telemax-Sonora-en-vivo.png" -Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w950122583_b1828000_sleng.m3u8
 #EXTINF:0,Telemax tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/Telemax-Sonora-en-vivo.png" -Telemax
@@ -48,7 +48,12 @@ https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/231
 #EXTINF:0,ARTE tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://prmeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2020/10/02/node_130440/37642516/public/2020/10/02/B9724795153Z.1_20201002155450_000%2BGMOGPSEI7.1-0.jpg?itok=TgiRKZy31601646966" -ARTE
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/232
-
+#EXTINF:0,Cine Life Classic tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="hhttps://aventurasnahistoria.uol.com.br/media/stories/cinema-nacional-5-curiosidades-sobre-setima-arte-no-brasil/assets/5.gif" -Cine Life Classic
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+#EXTINF:0,Cine Família tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://discarpinblog.files.wordpress.com/2016/08/cinema.gif" -Cine Família
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Adrenalina Freezone  tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.gifer.com/origin/41/4109c3f1d362403a87c5ebfd4bb382ee_w200.gif" -Adrenalina Freezone 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:0,Portal FoxMix tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86QwhnSkClvpRgd_BqcBAytNI4bdZ0aB8zoYrq7MDyy1r-zQ1U2Y0YkjWOwKseQYVbA0&usqp=CAU" -Portal FoxMix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 Retro TV tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYu04TmCcO2RiTUe-guKlLYTnDurewBWmjw&usqp=CAU",Retro TV
@@ -67,14 +72,10 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/240
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/239
 #EXTINF:0,CINEMAX tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://cdn.dribbble.com/users/1593269/screenshots/15348237/cinemax-tv.gif" -CINEMAX
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/240
-
-
 #EXTINF:0,REDE PREMIUM TV tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://redepremiumtv.com.br/wp-content/uploads/2020/05/favicon.png" -REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1000772454.m3u8
-
 #EXTINF:0,HBO  tvg-id="iddocanaldetelevisao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCTCOCVAKTtvx0VVzIvW0K1j4jhtnWnsx9U4Mk1IzyTS1GP4imXuogkD9TvOX9bDpkG7k&usqp=CAU" -HBO
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/246
-
 #EXTINF:0,HBO  tvg-id="iddocanaldetelevisao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCTCOCVAKTtvx0VVzIvW0K1j4jhtnWnsx9U4Mk1IzyTS1GP4imXuogkD9TvOX9bDpkG7k&usqp=CAU" -HBO
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/245
 #EXTINF:0,HBO  tvg-id="iddocanaldetelevisao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCTCOCVAKTtvx0VVzIvW0K1j4jhtnWnsx9U4Mk1IzyTS1GP4imXuogkD9TvOX9bDpkG7k&usqp=CAU" -HBO
@@ -144,10 +145,8 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204356
 #EXTINF:0,H2 HD tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.picasion.com/pic92/9f7b708874cdb27efb7b4a86eb4f8f16.gif" -H2 HD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204357
 #EXTINF:0,H2 HD tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.picasion.com/pic92/9f7b708874cdb27efb7b4a86eb4f8f16.gif" -H2 HD
-
 #EXTINF:-1 tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-name="TLX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkjtls2KtssZVOw_QXFMuoyeByYAiOFxN0ilMejZ3MpASXaNLyu95zxL__ofM6bxZKrQ&usqp=CAU",TLX HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w950122583_b1828000_sleng.m3u8
-
 #EXTINF:0,FOX tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://thumbs.gfycat.com/SlightEmotionalGoosefish-size_restricted.gif" -FOX 
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126098
 #EXTINF:0,FOX COMEDY tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://adslfibra.pt/sites/adslfibra.pt/files/images/canais-fox-825x293.gif" -FOX COMEDY
@@ -185,7 +184,6 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110128
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110127
 #EXTINF:0,TVN Brasil tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://media0.giphy.com/media/XN6KcdqD1zzLWDLi69/200w.gif?cid=82a1493b1522l8fl96ufvo46x17qzvmzfr47f4vctrdsdkrt&rid=200w.gif&ct=g" -TVN Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-
 #EXTINF:0,GENESIS tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://c.tenor.com/OC33HD7JUr0AAAAC/ter%C3%A1-genesis.gif" -GENESIS
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/137668
 #EXTINF:0,GNT FHDR tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://4.bp.blogspot.com/-5ChvKAGo1i0/WWJkHzDKGeI/AAAAAAAA8SY/mCAYvlEpmD8xJqQpJD2xgBkBA9O9EHf-wCLcBGAs/s640/gnt_logo_comparison.gif" -GNT FHDR
@@ -576,6 +574,67 @@ https://e-3.dokicloud.one/_v8/ddd9f115d8348e29f22b1adb593b244964ac970e1f035be859
 https://e-3.dokicloud.one/_v8/fdbdde7f2a95777b0f62a8c1253275c0a9b48128236e6cc89fdf98458aadc9c2c85c1ce29c280bb243634b9752e5b9ca99fdde495797ffd3cb7f4dbdda44f375d2b9dd73f6ead7562c3f1df554c9645d29b036f646e5dce9c4168acb6789382fe926d0d17f909b314f84ea2f6192222fa072720aeffb908877123ebd89a79df6/1080/index.m3u8
 #EXTINF:0,Temporada 1 - Episódio 8: Minha Palavra é meu vinculo tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 8: Minha Palavra é meu vinculo
 https://e-8.dokicloud.one/_v8/426dd31f1a731714111659b0a1756ce85dcb6258fcfaac3610e9484f8602504f902966eee4accf38b0592e170966e1940fd100e919671a8251e28c008e053ef80e0aaa9474c6a4e926c076dd62dd1b7cab2e8de40aee61bde017ebddc2ef5a50a8019708a004ee7605edffea11db4df56107ea7842ff92092a449bc4725bf1d4/1080/index.m3u8
+#EXTM3U url-tvg=" http://grade-de-PlutoTVBrasil.xml "
+
+ ############## PlutoTVBrasil ################ #   
+#EXTINF:-1 tvg-id=" iddocanaldePlutoTVBrasil " group-title="
+
+
+#EXTINF:0,Pronto-Socorro: histórias de emergência tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://efivest.com.br/wp-content/uploads/2018/03/noivado.gif" -Pronto-Socorro: histórias de emergência
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Pronto-Socorro: histórias de emergência tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://efivest.com.br/wp-content/uploads/2018/03/iml-humor.gif" -Pronto-Socorro: histórias de emergência
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Record News tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Record_News_%28color%29.svg/1200px-Record_News_%28color%29.svg.png" -Record News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Record News tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://img2.gratispng.com/20180613/lby/kisspng-record-news-recordtv-television-channel-new-record-5b2193507bd238.7414666115289270565072.jpg" -Record News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Record News tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://img2.gratispng.com/20180613/lby/kisspng-record-news-recordtv-television-channel-new-record-5b2193507bd238.7414666115289270565072.jpg" -Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:0,Record News tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/95f4f7b3-55a0-4071-813e-c96b2499dc0b/dcle0fj-11488bab-4d59-497b-ac4f-dda7e2c836f8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk1ZjRmN2IzLTU1YTAtNDA3MS04MTNlLWM5NmIyNDk5ZGMwYlwvZGNsZTBmai0xMTQ4OGJhYi00ZDU5LTQ5N2ItYWM0Zi1kZGE3ZTJjODM2ZjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RI_3_n9chLqwDQe_npZjXUDX_aedx5EhvghfrmwbG94" -Record News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/recordnews/live
+
+#EXTINF:0,Cine Natal tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://i.gifer.com/EhT6.gif" -Cine Natal
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a11ce2a4559000782a583/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Cine Natal tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://i.gifer.com/origin/84/840a7077f14086074f8777e7b6287404.gif" -Cine Natal
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a11ce2a4559000782a583/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Cine Romance tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://media.tenor.com/a-_1bR8liZIAAAAC/couch-cuddle.gif" -Cine Romance
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Cine Romance tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://media1.giphy.com/media/YMYZ9qJyBdCMIL0tRr/giphy.gif" -Cine Romance
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Cine Sucessos tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://i.gifer.com/3gbC.gif" -Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Cine Sucessos tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://aventurasnahistoria.uol.com.br/media/stories/cinema-nacional-5-curiosidades-sobre-setima-arte-no-brasil/assets/5.gif" -Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Cine Terror tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://68.media.tumblr.com/10a10a167e9d1b3f42c41b2b9d5923e8/tumblr_opfoccfwsS1rp0vkjo1_500.gif" -Cine Terror
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Cine Terror tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://i.pinimg.com/originals/be/4a/09/be4a092d599307d3a2d062f169b30f18.gif" -Cine Terror
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,DarkFlix tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZPNVchVcE0Isluj8YUvn-9da-5QA2-RCUXW6bM0SHFVbc0hBljmtic0GjzCyV7gttvYk&usqp=CAU" -DarkFlix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#EXTINF:0,Dark Matter tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://i.pinimg.com/originals/65/4d/ef/654def075a1cc455c71f556a6136b42c.gif" -Dark Matter
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0,Ficção Científica tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://i.pinimg.com/originals/80/a9/3a/80a93a464c4c8f0b80dd457c761ce182.gif" -Ficção Científica
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Ficção Científica tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://i.pinimg.com/originals/16/69/8e/16698e06235ac7d250d5e67d1b314403.gif" -Ficção Científica
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Filmelier tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://pa1.narvii.com/6617/5c58812e5d3e2c346ac8dabd1debbc339d8748d6_hq.gif" -Filmelier
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Filmelier tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="http://pa1.narvii.com/6813/c960e5944737861e881c41cc0f642d736c7ca6c6_00.gif" -Filmelier
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Filmelier tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="http://pa1.narvii.com/6813/c960e5944737861e881c41cc0f642d736c7ca6c6_00.gif" -Filmelier
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
+#EXTINF:0,Filmes Ação tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://i.pinimg.com/originals/e4/3a/fc/e43afc692281c861d5724102dd1922c0.gif" -Filmes Ação
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Filmes Ação tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://media1.giphy.com/media/l3q2A93zxqHnFDkuQ/200.gif" -Filmes Ação
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Filmes Nacionais tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://media.giphy.com/media/l49JHDndTbahfmOJO/giphy.gif" -Filmes Nacionais
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Filmes Nacionais tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://arteaberta.com/wp-content/uploads/2021/09/tumblr_inline_p7i6c843LS1qgwen1_400.gif" -Filmes Nacionais
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Filmes Suspense tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://s2.glbimg.com/qMKYsjsLiaz6eZzLQF9CcvTX-aw=/0x0:480x270/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2018/10/25/halloween.gif" -Filmes Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Filmes Suspense tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="http://cdn.fstatic.com/public/articles/files/2014/03/5c1e25b4-e87a-49cb-8435-f17ba4b8c2f9.gif" -Filmes Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 
 
