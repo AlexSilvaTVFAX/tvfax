@@ -642,6 +642,38 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d344
 
  ############## infantil ################ # 
 #EXTINF:-1 tvg-id=" iddocanaldeinfantil " group-title="
+#EXTINF:0,Os Anjinhos tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/8b/f4/4d/8bf44ddc23d678af55c9819d53a7e94e.gif" -Os Anjinhos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,As Aventuras de Jackie Chan tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/fc/fc/5c/fcfc5cb5c3a81c8828615ef6848bad30.gif" -As Aventuras de Jackie Chan
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,As Aventuras de Jackie Chan tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/fc/fc/5c/fcfc5cb5c3a81c8828615ef6848bad30.gif" -As Aventuras de Jackie Chan
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Beyblade tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/4b/7a/eb/4b7aeb7ddb78b7d0a6f08f695208d2ae.gif" -Beyblade
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
+#EXTINF:0,Beyblade tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://www.icegif.com/wp-content/uploads/2022/06/icegif-375.gif" -Beyblade
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Beyblade tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/Ce_iI765nq0AAAAd/beyblade-free.gif" -Beyblade
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Babyfirst tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media0.giphy.com/media/XfDpE3gHXrjdZtcPcw/200w.gif?cid=82a1493b2v5rm3p6dv135id4r5brk8fu55ua2pl5fsddhh2c&rid=200w.gif&ct=g" -Babyfirst
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Babyfirst tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media1.giphy.com/media/fAKThZs5sM7K3XqHw7/200w.gif?cid=6c09b952pxjd839v4gr5vb3prlk8qqw1f4jmj55awpnui55w&rid=200w.gif&ct=g" -Babyfirst
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Bob Esponja tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/81/c9/fc/81c9fc92d868081b65ac8173159faa1e.gif" -Bob Esponja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Desenhos antigos tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://thumbs.gfycat.com/SnappyFrighteningAmazonparrot-max-1mb.gif" -Desenhos antigos
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:0,Anime tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media3.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif" -Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Anime tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/fe/31/5b/fe315b4cd83ccf7dd185aa0970fb9ecc.gif" -Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Anime tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/0b/c0/00/0bc0009a819d2231807ae7886112d191.gif" -Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Anime tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/wNTOa_xu-xkAAAAd/anime-lightning.gif" -Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Cocoricó tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.makeagif.com/media/6-12-2016/KSMS6v.gif" -Cocoricó
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Os Anjinhos tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://pa1.narvii.com/6434/a6766a4a7c261f4c71e7c8b6a7b73f0dc18d560c_hq.gif" -Os Anjinhos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:0,PEPPA PIG tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/28/a1/8e/28a18e4aaa9a62555cd8ffe4cf194bc9.gif" -PEPPA PIG
 https://youtu.be/6xBFTOVef2M
 #EXTINF:0,CARTOON NETWORK tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/01/dc/8c/01dc8cf80f58be8d34c8c879b26c3d54.gif" -CARTOON NETWORK
