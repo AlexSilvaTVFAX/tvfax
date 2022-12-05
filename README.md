@@ -1,30 +1,34 @@
 #EXTM3U
 
-
-EXTM3U url-tvg="http://grade-de-Movies.xml"
-
-############## Movies #################  
-
-
-#EXTINF:0,TV FAX tvg-id="iddocanaldeMovies" group-title="Movies" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -TV FAX
+EXTM3U url-tvg="http://grade-de-TVFAX.xml"
+############## TV FAX #################  
+#EXTINF:0,TV FAX tvg-id="iddocanaldeTVFAX" group-title="TVFAX" tvg-logo="https://i.picasion.com/pic92/75ad6cd178738dcd78aab0d74b0cdc04.gif" -TV FAX
 https://cdnhd.iblups.com/hls/JcG48OdGmW.m3u8
-
-#EXTM3U url-tvg=" http://grade-de-radioetvfax.xml "
-
- ############## radioetvfax ############## ###   
-
-#EXTINF:-1 tvg-id=" iddocanalderadioetvfax" group-title="
-
-#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadioetvfax" group-title="radioetvfax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR
+########################################################
+#EXTM3U url-tvg=" http://grade-de-Tvfax.xml "
+ ############## radiofax ############## ###   
+#EXTINF:-1 tvg-id=" iddocanalderadiofax" group-title="
+#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR
 http://stream.zeno.fm/hu70hmkcu68uv.m3u
-
+########################################################
+EXTM3U url-tvg="http://grade-de-alexsilva.xml"
+############## alexsilva ################# 
+#EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=2675225&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjI6NTMgUE0maGFzaF92YWx1ZT1jL09NNTVYWkNEMHRnUUI3MHcydVF3PT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=2675338&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6Mjg6NTUgUE0maGFzaF92YWx1ZT1DQWo1RGNqbWZ3Y1hRbXgrSkx3eFZnPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=2675224&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjI6NTMgUE0maGFzaF92YWx1ZT1jL09NNTVYWkNEMHRnUUI3MHcydVF3PT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=2675225&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjI6NTMgUE0maGFzaF92YWx1ZT1jL09NNTVYWkNEMHRnUUI3MHcydVF3PT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=2675225&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjI6NTMgUE0maGFzaF92YWx1ZT1jL09NNTVYWkNEMHRnUUI3MHcydVF3PT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+https://live.embedflix.net/p2p/foxsport2/chunks.m3u8?nimblesessionid=1014659&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjE6MTIgUE0maGFzaF92YWx1ZT0wK3ppZ3hiZ09RZGIwVnM3UGZwcW93PT0mdmFsaWRtaW51dGVzPTkw
+########################################################
 #EXTM3U url-tvg=" http://grade-de-TELEVISÃO.xml "
-
  ############## TELEVISÃO ############## ###   
-
 #EXTINF:-1 tvg-id=" iddocanaldetelevisao" group-title="
-
-
 #EXTINF:0,CINE LIVRE 2 tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://cdn.videoplasty.com/gif/clapper-board-stock-gif-4060-1024x576.gif" -CINE LIVRE 2
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1442737368.m3u8
 #EXTINF:0,Cine Natal | Brasil: cinematvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_MN8Xlgh9JGYaIJDdS-HiBFzAB26Ugv0dL4XNP=s900-c-k-c0x00ffffff-no-rj" -Cine Natal | Brasil: cinema
@@ -63,6 +67,8 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/231
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/232
 #EXTINF:0,Cine Life Classic tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="hhttps://aventurasnahistoria.uol.com.br/media/stories/cinema-nacional-5-curiosidades-sobre-setima-arte-no-brasil/assets/5.gif" -Cine Life Classic
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+#EXTINF:0,CINEMAX tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.gifer.com/B6dH.gif" -CINEMAX
+https://server100.online/cinemax/tracks-v1a1/mono.m3u8?token=cf9f1bf596c68909646d161f6e67f0fe41668037-f2ccec1f782dd584d63952477eda9425-1670279162-1670275562
 #EXTINF:0,Cine Família tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://discarpinblog.files.wordpress.com/2016/08/cinema.gif" -Cine Família
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:0,Adrenalina Freezone  tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.gifer.com/origin/41/4109c3f1d362403a87c5ebfd4bb382ee_w200.gif" -Adrenalina Freezone 
@@ -361,18 +367,14 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/552
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1006
 #EXTINF:0,HGTV tvg-id="iddocanaldetelevisao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" - HGTV
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/940
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-filmes.xml "
-
  ############## filmes ############## ###   
-
 #EXTINF:-1 tvg-id=" iddocanaldefilmes " group-title="
-
 #EXTINF:0,Condenação Brutal tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://a-static.mlcdn.com.br/1500x1500/dvd-condenacao-brutal-sylvester-stallone-ma/brotherscom/9441485852/91e8931282f5634ff2ace9689617261d.jpg" -Condenação Brutal
 https://troy2.s3.us-central-1.wasabisys.com/cdn3/CondenacaoBrutal.mp4
 #EXTINF:0,Coisa-Malu  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://vdn.libreflix.org/covers/media/2017/coisa-malu-thumb.jpg?resize=480,270&crop=entropy" -Coisa-Malu
 https://vdn.libreflix.org/video/coisa-malu/coisa-malu.720.mp4
-
 #EXTINF:0,Lú  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://vdn.libreflix.org/covers/media/53aa0ea0-0b91-11ec-9742-4bf51aa62f72bcb56990-eae8-11eb-b74e-f33afdab038ecapa_filme_wide.jpg?resize=480,270&crop=entropy" -Lú
 https://vdn.libreflix.org/video/lu/lu.360.mp4
 #EXTINF:0,Jogo Sujo  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/swelter_pt/swelter_pt_200x300.jpg" -Jogo Sujo
@@ -467,12 +469,10 @@ https://play.prod.gcp.vix.services/bravestorm_pt/bravestorm_pt_1-1/hls_2500.m3u8
 https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_2500.m3u8
 #EXTINF:0,kabluey tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://thumbs.gfycat.com/DelightfulSpanishBuffalo-size_restricted.gif" -kabluey
 https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-series.xml "
-
  ############## series ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldeseries " group-title="
-
 #EXTINF:0,AGENTE 86 tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://j.gifs.com/Q1g3jq.gif" -AGENTE 86
 https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
 #EXTINF:0,CHIPStvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://atomicchronoscaphadamhome.files.wordpress.com/2018/05/tumblr_p8109itmgv1sqf5tdo1_400.gif" -CHIPS
@@ -503,13 +503,10 @@ https://e-3.dokicloud.one/_v8/ddd9f115d8348e29f22b1adb593b244964ac970e1f035be859
 https://e-3.dokicloud.one/_v8/fdbdde7f2a95777b0f62a8c1253275c0a9b48128236e6cc89fdf98458aadc9c2c85c1ce29c280bb243634b9752e5b9ca99fdde495797ffd3cb7f4dbdda44f375d2b9dd73f6ead7562c3f1df554c9645d29b036f646e5dce9c4168acb6789382fe926d0d17f909b314f84ea2f6192222fa072720aeffb908877123ebd89a79df6/1080/index.m3u8
 #EXTINF:0,Temporada 1 - Episódio 8: Minha Palavra é meu vinculo tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 8: Minha Palavra é meu vinculo
 https://e-8.dokicloud.one/_v8/426dd31f1a731714111659b0a1756ce85dcb6258fcfaac3610e9484f8602504f902966eee4accf38b0592e170966e1940fd100e919671a8251e28c008e053ef80e0aaa9474c6a4e926c076dd62dd1b7cab2e8de40aee61bde017ebddc2ef5a50a8019708a004ee7605edffea11db4df56107ea7842ff92092a449bc4725bf1d4/1080/index.m3u8
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-XenaAPrincesaGuerreira.xml "
-
-
  ############## XenaAPrincesaGuerreira ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldeXenaAPrincesaGuerreira " group-title="
-
 #EXTINF:0,Xena: A Princesa Guerreira T01 EP.08 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://1.bp.blogspot.com/-KyNPdgR5jx0/WOJuc9xqQTI/AAAAAAAAbC8/UoBiVtkaWNQEnD9_246CS_y0C1s6RzmlgCLcB/s1600/Gifs%2Banimados%2BXena%2BA%2BPrincesa%2BGuerreira%2B11.gif" -Xena: A Princesa Guerreira T01 EP.08
 https://archive.org/download/xena-a-princesa-guerreira/ep8.mp4
 #EXTINF:0,Xena: A Princesa Guerreira T01 EP.09 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://images6.fanpop.com/image/photos/40600000/Xena-and-Gabrielle-nudging-each-other-xena-warrior-princess-40682875-500-249.gif" -Xena: A Princesa Guerreira T01 EP.09
@@ -545,12 +542,9 @@ https://archive.org/download/xena-a-princesa-guerreira/ep23.mp4
 #EXTINF:0,Xena: A Princesa Guerreira T01 EP.24 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://media.tenor.com/150_8YSIc3EAAAAC/xena-xena-warrior-princess.gif" -Xena: A Princesa Guerreira T01 EP.24
 https://archive.org/download/xena-a-princesa-guerreira/ep24.mp4
 #EXTM3U url-tvg=" http://grade-de-PlutoTVBrasil.xml "
-
-
+########################################################
  ############## PlutoTVBrasil ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldePlutoTVBrasil " group-title="
-
-
 #EXTINF:0,Pronto-Socorro: histórias de emergência tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://efivest.com.br/wp-content/uploads/2018/03/noivado.gif" -Pronto-Socorro: histórias de emergência
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:0,Pronto-Socorro: histórias de emergência tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="https://efivest.com.br/wp-content/uploads/2018/03/iml-humor.gif" -Pronto-Socorro: histórias de emergência
@@ -605,19 +599,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:0,Filmes Suspense tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="http://cdn.fstatic.com/public/articles/files/2014/03/5c1e25b4-e87a-49cb-8435-f17ba4b8c2f9.gif" -Filmes Suspense
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-infanti.xml "
-
  ############## infantil ################ # 
 #EXTINF:-1 tvg-id=" iddocanaldeinfantil " group-title="
-
 #EXTINF:0,Tartarugas Ninjas tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://pa1.narvii.com/6902/c2eebcbb24b4128a19de9eb223acbbe3addb9972r1-500-280_hq.gif" -Tartarugas Ninjas
 https://play.prod.gcp.vix.services/teenage-mutant-ninja-turtles_pt/teenage-mutant-ninja-turtles_pt_1-1/hls_2500.m3u8
 #EXTINF:0,Monica tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/TQIJ27YF7bIAAAAC/turma-da-monica-monica.gif" -Monica
 https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
-
 #EXTINF:0,Monica tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/TQIJ27YF7bIAAAAC/turma-da-monica-monica.gif" -Monica
 https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,Os Anjinhos tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/8b/f4/4d/8bf44ddc23d678af55c9819d53a7e94e.gif" -Os Anjinhos
@@ -698,15 +687,11 @@ https://play.prod.gcp.vix.services/mans-best-friend_pt/mans-best-friend_pt_1-1/p
 https://play.prod.gcp.vix.services/dummie-mummy-3_pt/dummie-mummy-3_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,Garoto Formiga 3 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/antboy-3_pt/antboy-3_pt_200x300.jpg" -Garoto Formiga 3
 https://play.prod.gcp.vix.services/antboy-3_pt/antboy-3_pt_1-1/hls_2500.m3u8
-
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/698
-
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-TerrorSuspensel.xml "
-
  ############## TerrorSuspense ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldeTerrorSuspense " group-title="
-
 #EXTINF:0,Os Crimes de Limehouse tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/limehouse-golem_pt/limehouse-golem_pt_200x300.jpg" -Os Crimes de Limehouse
 https://play.prod.gcp.vix.services/limehouse-golem_pt/limehouse-golem_pt_1-1/thumbs_640x360.m3u8
 #EXTINF:0,Submersos tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/submerged_pt/submerged_pt_200x300.jpg" -Submersos
@@ -719,12 +704,10 @@ https://play.prod.gcp.vix.services/camp-hell_pt/camp-hell_pt_1-1/play_v1_hls_108
 https://play.prod.gcp.vix.services/welcome-willits_pt/welcome-willits_pt_1-1/thumbs_640x360.m3u8
 #EXTINF:0,Forças Malignas tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/hex-2018_pt/hex-2018_pt_200x300.jpg" -Forças Malignas
 https://play.prod.gcp.vix.services/hex-2018_pt/hex-2018_pt_1-1/thumbs_640x360.m3u8 
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-gospel.xml "
-
  ############## gospel ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldegospel " group-title="
-
 #EXTINF:0,O Sinal de Deus tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/tribulation_pt/tribulation_pt_200x300.jpg" -O Sinal de Deus
 https://play.prod.gcp.vix.services/tribulation_pt/tribulation_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,carton gospel tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.pinimg.com/originals/02/55/1a/02551aba7e65efd5fe26108a8526494d.gif" -carton gospel
@@ -783,14 +766,10 @@ https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-4/hls_2
 https://alanza.iptv2022.com/FRONTEIRA_KIDS/tracks-v1a1/mono.m3u8
 #EXTINF:0,DESENHOS BIBLICOS tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.pinimg.com/originals/5e/9d/59/5e9d5919eb5d4e5277956d5d5fb46b61.gif" -DESENHOS BIBLICOS
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/111160
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-tvaberta.xml "
-
  ############## tvaberta ############## ###   
-
 #EXTINF:-1 tvg-id=" iddocanaldetvaberta " group-title="
-
-
 #EXTINF:0,BAND Minas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzCCdYyV1PGPBg-cCc4DWY9afb1KTOyi7oazjqzryAwDSC3UJELMyAKooAiiyfW3I0gis&usqp=CAU" -BAND Minas
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 #EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
@@ -845,6 +824,8 @@ https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:0,Globo SP TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo SP TV
 http://tv1.cs10.tv:25461/live/imp55043385/74352/8.m3u8
+#EXTINF:0,Globo SP TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo SP TV
+https://server100.online/globo-nordeste/tracks-v1a1/mono.m3u8?token=1cdce2b7e4682b0ea9c6bb1d2973e57aa9643a00-086e6df6001e3ada2856c28d189f4479-1670278215-1670274615
 #EXTINF:0,SBT Rede Massa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media0.giphy.com/media/Bq6n0ISofXgM4YxG6A/200w.gif?cid=82a1493bcfgrui5wravrvbatlik0i8fdqka0ibv59gxsqm0p&rid=200w.gif&ct=s" -SBT Rede Massa
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
@@ -929,14 +910,11 @@ https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chu
 https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
 #EXTINF:0,TTv Imprensa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.radioimprensa.tv/wp-content/uploads/sites/30/2022/02/cropped-logotipo-1.png" -Tv Imprensa
 https://tv02.zas.media:1936/imprensa/imprensa/chunklist_w881661499.m3u8
-
 #EXTINF:0,Mamonas Assasinas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://64.media.tumblr.com/33dea8500150207e89c1385b4fd08573/tumblr_n7ohvmZTQy1r8e1a3o4_250.gif" -Mamonas Assasinas
 https://play.prod.gcp.vix.services/mamonas-pra-sempre_pt/mamonas-pra-sempre_pt_1-1/play_v1_hls_1080p.m3u8
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-tvclips.xml "
-
  ############## tvclips ############## ###   
-
 #EXTINF:-1 tvg-id=" iddocanaldetvclips " group-title="
 #EXTINF:0,KPOP TV PLAY tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://0.soompi.io/wp-content/uploads/2020/05/13170248/TWICE-TV.gif" -KPOP TV PLAY
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
@@ -964,19 +942,18 @@ https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u
 https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
 #EXTINF:0,TV DESTAK tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://agendadacidade.com.br/attachmentable/show/40862" -TV DESTAK
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1873588273.m3u8
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-sporte.xml "            
-
  ############## sporte ############## ###                      
-
 #EXTINF:-1 tvg-id=" iddocanaldesporte " group-title=" 
-
 #EXTINF:0,ClixTV tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://noticiasdatv.uol.com.br/media/_versions/artigos/bwf-acce-matths-alves_fixed_large.jpg" -ClixTV
 https://706c87fc5de5427486fd3a9d7cfede10.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_Clix/ad28b8d6-d4dd-4944-9439-0fdb5ef84e8c/5.m3u8
 #EXTINF:0, Sports  HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.gifer.com/origin/1e/1e89ce5181a2f5e3e154775514a5132a.gif" -Sports 
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f32d2db0af67400077f29c4/3063648/playlist.m3u8?terminate=false&sid=cb1a6dfd-679e-11ed-ab24-0242ac110003&deviceDNT=0&deviceLat=-23.5229&deviceLon=-47.2817&deviceModel=web&deviceVersion=107.0.0&serverSideAds=true&appName=web&deviceId=4c5b616f-65f0-4b8f-ba3a-a89621d68e7e&appVersion=6.7.1-38d521889b5c2cd009d29efb8c0355e10028c31d&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFlNTYzZDdlLTA2OWEtNDY1ZS04NTc1LTYxNmIxNzVkZDRhOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjYjFhNmRmZC02NzllLTExZWQtYWIyNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjQ1LjE2Ny4xODAuMzEiLCJjaXR5IjoiQWx1bWluaW8iLCJwb3N0YWxDb2RlIjoiMTgxMjUiLCJjb3VudHJ5IjoiQlIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjMuNTIyOSwiZGV2aWNlTG9uIjotNDcuMjgxNywicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTA3LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNi43LjEtMzhkNTIxODg5YjVjMmNkMDA5ZDI5ZWZiOGMwMzU1ZTEwMDI4YzMxZCIsImNsaWVudElEIjoiNGM1YjYxNmYtNjVmMC00YjhmLWJhM2EtYTg5NjIxZDY4ZTdlIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FvX1BhdWxvIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY2ODg0NTUyMiwianRpIjoiNjIzMTYzMmYtZWJiOS00NDNlLTg5MGUtNTNjZWQ2ZGMxZjU1IiwiaWF0IjoxNjY4ODE2NzIyLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6TkdNMVlqWXhObVl0TmpWbU1DMDBZamhtTFdKaE0yRXRZVGc1TmpJeFpEWTRaVGRsIn0.vZiHXfV1joRGl8qs5zszAPugjdIHgAzK1XPyvzWpSnI 
 #EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110291
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+https://live.embedflix.net/p2p/foxsport2/chunks.m3u8?nimblesessionid=1014659&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjE6MTIgUE0maGFzaF92YWx1ZT0wK3ppZ3hiZ09RZGIwVnM3UGZwcW93PT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/139
 #EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
@@ -1159,11 +1136,9 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1003
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/165
 #EXTINF:0,PREMIERE CLUB tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/images/body/premiere-825x293.png" -PREMIERE CLUB
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/164
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-ogordoeomagro.xml "
-
  ############## ogordoeomagro ############## ###   
-
 #EXTINF:-1 tvg-id=" iddocanaldeogordoeomagro " group-title="
 #EXTINF:0,A História do Gordo e o Magro tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://78.media.tumblr.com/e9166df006c62ab8e700933380ed02bd/tumblr_nadpunQhT11ry46hlo1_400.gif" -A História do Gordo e o Magro
 https://youtu.be/nDsjrO0fXrU
@@ -1267,66 +1242,10 @@ https://youtu.be/gQNoGd8kets
 https://youtu.be/wcLn_TSnEi8
 #EXTINF:0,O Gordo e o Magro -Patrulheiros em alerta (1933) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/9a/47/b8/9a47b8a081784525b12981e5b83cc9e2.gif" -O Gordo e o Magro Patrulheiros em alerta (1933)
 https://youtu.be/yUZJFgDexRg
-#EXTINF:0,O Gordo e o Magro - A Herança Assombrada
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HERAN%C3%87A%20ASSOMBRADA.mp4
-#EXTINF:0,O Gordo e o Magro - A Liberdade e seus Perigos
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20LIBERDADE%20E%20SEUS%20PERIGOS.mp4
-#EXTINF:0,O Gordo e o Magro - Dois Detetives da Pesada
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DOIS%20DETETIVES%20DA%20PESADA.mp4
-#EXTINF:0,O Gordo e o Magro - Duas Babás para um Bebê
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DUAS%20BAB%C3%81S%20PARA%20UM%20BEB%C3%8A.mp4
-#EXTINF:0,O Gordo e o Magro - Entrega a Domicílio
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ENTREGA%20A%20DOMIC%C3%8DLIO.mp4
-#EXTINF:0,O Gordo e o Magro - Ladrão que rouba Ladrão
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20LADR%C3%83O%20QUE%20ROUBA%20LADR%C3%83O.mp4
-#EXTINF:0,O Gordo e o Magro - Marujos Trapalhões
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20MARUJOS%20TRAPALH%C3%95ES%281%29.mp4
-#EXTINF:0,O Gordo e o Magro - O Destruidor de Lares
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20DESTRUIDOR%20DE%20LARES.mp4
-#EXTINF:0,O Gordo e o Magro - O Grande Negócio
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20GRANDE%20NEG%C3%93CIO.mp4
-#EXTINF:0,O Gordo e o Magro - Orquestra Maluca
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ORQUESTRA%20MALUCA.mp4
-#EXTINF:0,O Gordo e o Magro - Os Boemios do Barulho
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20OS%20BOEMIOS%20DO%20BARULHO.mp4
-#EXTINF:0,O Gordo e o Magro - Papai e Mamãe por Acaso
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20PAPAI%20E%20MAM%C3%83E%20POR%20ACASO.mp4
-#EXTINF:0,O Gordo e o Magro - Um Amor de Cabrita
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20AMOR%20DE%20CABRITA.mp4
-#EXTINF:0,O Gordo e o Magro - Um Duelo de Amor
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20DUELO%20DE%20AMOR.mp4
-#EXTINF:0,O Gordo e o Magro - Um Furo de Reportagem
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20FURO%20DE%20REPORTAGEM%2000_00_05-00_17_31.mp4
-#EXTINF:0,O Gordo e o Magro - Momento de Glória
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20MOMENTO%20DE%20GL%C3%93RIA.mp4
-#EXTINF:0,O Gordo e o Magro - Uma Luta de Risos
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20DE%20RISOS.mp4
-#EXTINF:0,O Gordo e o Magro - Uma Luta sem Igual
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20SEM%20IGUAL.mp4
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-radio.xml "
-
  ############## radio ################ #   
 #EXTINF:-1 tvg-id=" iddocanalderadio " group-title="
-
 #EXTINF:0,Radio Total Hits tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rcE8RAPGud.jpg" -Radio Total Hits
 https://stream-57.zeno.fm/bykfgnbuk2zuv?zs=JxT2WT1CR7Wf9YTu7xFnsw
 #EXTINF:0,Rádio Energia tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.wixstatic.com/media/032e42_49688ce1f5194145bef65c5848752291.gif" -Rádio Energia
@@ -1526,9 +1445,8 @@ https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
 #EXTINF:0,Rádio UFRGS
 http://radioaovivo.ufrgs.br:8000/stream.mp3
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-dinho santos.xml "
-
  ############## dinho santos ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldedinho santos " group-title="
 #EXTINF:0,A Sozinho na Rua tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -Sozinho na Rua
@@ -1543,12 +1461,10 @@ https://video.wixstatic.com/video/c634a0_43b2a803bcd34217b79e33c8f839e453/720p/m
 https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
 #EXTINF:0,ao vivo tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -ao vivo
 https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-traduçao.xml "
-
  ############## traduçao ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldetraduçao " group-title="
-
 #EXTINF:0,BERLIN TRADUÇAO ALEX SILVA tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -BERLIN TRADUÇAO ALEX SILVA
 https://music.wixstatic.com/preview/c634a0_64ba8f681d844fd9934fbec63ebc9bf9-128.mp3
 #EXTINF:0,I should have known better tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -I should have known better
@@ -1583,14 +1499,10 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
 #EXTINF:0,We Are The World tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -We Are The World
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-
-
+########################################################
 #EXTM3U url-tvg=" http://grade-de-nao.xml "
-
  ############## nao ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldenao " group-title="
-
-
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/321
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
