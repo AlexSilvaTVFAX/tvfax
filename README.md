@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTM3U url-tvg=" http://grade-de-RadioeTVFAX.xml "
+#EXTM3U url-tvg=" http://grade-de-radioetvfax.xml "
 
- ############## RadioeTVFAX ############## ###   
+ ############## radioetvfax ############## ###   
 
-#EXTINF:-1 tvg-id=" iddocanaldeRadioeTVFAX" group-title="
+#EXTINF:-1 tvg-id=" iddocanalderadioetvfax" group-title="
 
-#EXTINF:0,TV FAX tvg-id="iddocanaldeRadioeTVFAX" group-title="RadioeTVFAX" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -TV FAX
+#EXTINF:0,TV FAX tvg-id="iddocanalderadioetvfax" group-title="radioetvfax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -TV FAX
 https://cdnhd.iblups.com/hls/JcG48OdGmW.m3u8
 
-#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanaldeRadioeTVFAX" group-title="RadioeTVFAX" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR
+#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadioetvfax" group-title="radioetvfax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR
 http://stream.zeno.fm/hu70hmkcu68uv.m3u
 
 #EXTM3U url-tvg=" http://grade-de-TELEVISÃO.xml "
