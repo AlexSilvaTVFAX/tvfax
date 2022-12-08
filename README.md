@@ -23,7 +23,8 @@ https://cdnhd.iblups.com/hls/JcG48OdGmW.m3u8
 #EXTM3U url-tvg="http://grade-de-alexsilva.xml"
 
 ############## alexsilva ################# 
-
+#EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
+https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/CqwFpp5lcQ22wsTFqtn1mLGzH2_ieOW974a_VA-CO_REA0Ml-Pi7OiRz7X-dgUHy-2lxEy8I736qFrayEzxQukhaEmMSivPrrZHAWyMyz6jsTkc7hghW6z_Xp4oZyuNRMSbS7q6GaD4_gmIUlHpGKizRcZYR9t1YDvCrYnPSybWFoLs7yNo7brp-NOYEFQ51CVs9yGQPgvAnQEaNydw_NmXgEotJa6YTnbkge9H3uAutKLs3SS0ZU-e0zRJY1VWIdc7eVi_mfYXJ3HguLMA_AeBcO7HnytznFQPY02gRUqvs-96w70TpKpe4lFtKBplmnmr_KkGmqJjF1H4acufWBfsFBHJcPjQBpv4q2NW60srWhusZfAkGJOn712vA8ylEKX6q1iCv_QyPrW01UuwjZtVuvCvZhb03BJWmgRIazDiSkPGtnAD4vI5O046WqAmft5yHdwJ_UUJnmZnRfqL4knEPOPevdnEGSAoEXuDmCiVCaPPqAMpchNDWB_SPThMRtA7uxmiY-PwMYOgdVs8fjh7K1sFQOJ7-WoN5DmWLoHjlJNJpDJlJUgkXBvs9rRuNBABSacICbov762wwf-6foBMoaAFKinaNhZ47NgKzBZeiKH0TBpEfMLPU27MsX9McG-Kd94TN_RFITvLg7Uj9Yww-Uty9uxvzF7bITv6_sSdYgPrb3EY87-lZhFxo0poOSTMxp0TlnI-AgnUm95Gc-YyI0SJFe_ZGAmP7ncDDxpx5qw5XOAxf3eDGZkf3ikhTouX_yCv0Yew3lgLPRuLSIwd3TKUHMRe20Y6gIPUn7nk_pIHhIR6OsnXK7zQkjMvgTTqAln12pl2NU4rQyQyvoCszUH2oH3d1eqny-oFdjLkRXT3rZEVXtNqst1_f3dfl7B33mgY96fAoR_yG76VSGgwuH0ZZdxv0bCTVGvkgASoJZXUtd2VzdC0yMKsF.m3u8
 #EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
 https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=2675225&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjI6NTMgUE0maGFzaF92YWx1ZT1jL09NNTVYWkNEMHRnUUI3MHcydVF3PT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
@@ -65,6 +66,9 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/871
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w950122583_b1828000_sleng.m3u8
 #EXTINF:0,Telemax tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/Telemax-Sonora-en-vivo.png" -Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:0,A&E tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://www.logolynx.com/images/logolynx/b2/b25ab33c062062f097403c6141b94b68.gif" -A&E
+https://server100.online/ae/tracks-v1a1/mono.m3u8?token=23b4ad4946cc34763dbc4bef37c6989d228b7668-123824fec7962dc60b1414bc5fec612f-1670454386-1670450786
 #EXTINF:0,A&E tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://www.logolynx.com/images/logolynx/b2/b25ab33c062062f097403c6141b94b68.gif" -A&E
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/225
 #EXTINF:0,A&E tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://www.logolynx.com/images/logolynx/b2/b25ab33c062062f097403c6141b94b68.gif" -A&E
@@ -382,6 +386,167 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1006
 #EXTINF:0,HGTV tvg-id="iddocanaldetelevisao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" - HGTV
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/940
 
+#EXTM3U url-tvg=" http://grade-de-tvaberta.xml "
+
+ ############## tvaberta ############## ###   
+
+#EXTINF:-1 tvg-id=" iddocanaldetvaberta " group-title="
+
+#EXTINF:0,7 TVS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/11/7-TVS.webp" -7 TVS
+https://stmv1.samcast.com.br/7tvs/7tvs/chunklist_w194514046.m3u8
+#EXTINF:0,BAND Minas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzCCdYyV1PGPBg-cCc4DWY9afb1KTOyi7oazjqzryAwDSC3UJELMyAKooAiiyfW3I0gis&usqp=CAU" -BAND Minas
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108301
+#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
+https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4164cRoV61eFYXRy9xGUCCay2My48Opm8Y9UUaBntoB8)/dm/3/x83vbd6/s/live-4.m3u8#cell=lnyc
+#EXTINF:0,BAND MAIS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.bandfmcampinas.com/files/2019/06/LOGO-BAND-MAIS.png" -BAND MAIS
+https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
+#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
+https://googlez03.ml/canais/Band/Band_20221114030907_7250_01864208_9999978.json
+#EXTINF:0,BAND CAMPINAS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://c.tenor.com/ogR-o9Nze0IAAAAC/band-tv.gif" -BAND CAMPINAS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125565
+#EXTINF:0,BAND CAMPINAS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://c.tenor.com/ogR-o9Nze0IAAAAC/band-tv.gif" -BAND CAMPINAS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125564
+#EXTINF:0,TV Cultura tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" -TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w551574057.m3u8
+#EXTINF:0,TVI Reality tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://play-lh.googleusercontent.com/oFh4WmL_VSQb82kt5JIPZettoG4SJ_QrEs9pdiJ7RCuxL__j8AT4PG5f_TA7RtndQUM" -TVI Reality
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
+#EXTINF:0,TV NOVA NORDESTE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.picasion.com/pic92/1a317149a5ced47235401c8a704221cb.gif" -TV NOVA NORDESTE
+https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+#EXTINF:0,TV Jornal Caruaru (SBT PE) tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/43a5c48b9848b88ba8ba2b63bd79940f.webp" -TV Jornal Caruaru (SBT PE)
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w547023660.m3u8
+#EXTINF:0,Nickelodeon tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/gqo-NPXflIwAAAAM/nickelodeon-slime.gif" -Nickelodeon
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:0,conect tv tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tv.conectnet.net/logo/main-logo.png" -conect tv
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?rand=0.8449174441721692
+#EXTINF:0,TV Vitória (Record ES) tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TV_Vit%C3%B3ria_logo_antiga.png/revision/latest/scale-to-width-down/250?cb=20211025220834" -TV Vitória (Record ES)
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1351588134.m3u8?PlaylistM3UCL
+#EXTINF:0,SBT Caruaru tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i0.wp.com/portalaltadefinicao.com/wp-content/uploads/2019/01/TV-Jornal-afiliada-do-SBT-1.jpg?fit=1200%2C675&ssl=1" -SBT Caruaru
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT TV
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:0,SBT Rede Massa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media0.giphy.com/media/Bq6n0ISofXgM4YxG6A/giphy.gif?cid=6c09b9526cowzdkcvkqufkm3mrbiqf9k3a1pewpup6sg7bbr&rid=giphy.gif&ct=s" -SBT Rede Massa
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:0,TV agua boa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/13c521cefbb5fde40d549a9d66891530.webp" -TV agua boa
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT TV
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0,SBT interior tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.makeagif.com/media/6-22-2016/sHf3O7.gif" -SBT TV
+https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/68109c4b-305e-4b90-899f-415bdf57b476/depiaao-80edd11e-2846-4eeb-84da-0978fa236a31.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4MTA5YzRiLTMwNWUtNGI5MC04OTlmLTQxNWJkZjU3YjQ3NlwvZGVwaWFhby04MGVkZDExZS0yODQ2LTRlZWItODRkYS0wOTc4ZmEyMzZhMzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sRd8THVhJKT3pGtR4-Fb1ne4XeD6jUlES2oyhnPN1dU" -SBT TV
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.makeagif.com/media/6-22-2016/bzGtbR.gif" -SBT TV
+https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/85SU4CP1yvUAAAAM/sorriso-feliz.gif" -SBT TV
+https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/85SU4CP1yvUAAAAM/sorriso-feliz.gif" -SBT TV
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:0,Globo SP TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo SP TV
+http://tv1.cs10.tv:25461/live/imp55043385/74352/8.m3u8
+#EXTINF:0,canal do boi tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://pbs.twimg.com/profile_images/1295744415735197698/lISgKV06_400x400.jpg" -canal do boi
+http://168.205.87.198:8555/live/antony/1234/10.m3u8
+#EXTINF:0,TV BRASIL tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/TV_Brasil_logo_2019.svg" - TV BRASIL
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjnEgV_oD2Kr75ydPRkTG05uRgeVjLeaCN4mqh-gffKD)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+#EXTINF:0,Globo SP TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo SP TV
+https://server100.online/globo-nordeste/tracks-v1a1/mono.m3u8?token=1cdce2b7e4682b0ea9c6bb1d2973e57aa9643a00-086e6df6001e3ada2856c28d189f4479-1670278215-1670274615
+#EXTINF:0,SBT Rede Massa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media0.giphy.com/media/Bq6n0ISofXgM4YxG6A/200w.gif?cid=82a1493bcfgrui5wravrvbatlik0i8fdqka0ibv59gxsqm0p&rid=200w.gif&ct=s" -SBT Rede Massa
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
+https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
+#EXTINF:0,Record tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/giphy.gif?cid=6c09b952d8cb51e6bd3daef49aadb35d9c2a00b319873d86&rid=giphy.gif&ct=s" -Record 
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:0,record news tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/uDGUQcQoEJ0AAAAM/plantao-extra-jornal-record-breaking-news-1995.gif" -record news
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Record tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
+#EXTINF:0,Record tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/61f185ae10150a0007049e0c/2142297/playlist.m3u8?terminate=false&sid=b9e91de7-67a6-11ed-ac14-0242ac110003&deviceDNT=0&deviceLat=-23.4196&deviceLon=-47.0778&deviceModel=web&deviceVersion=107.0.0&serverSideAds=true&appName=web&deviceId=4c5b616f-65f0-4b8f-ba3a-a89621d68e7e&appVersion=6.7.1-38d521889b5c2cd009d29efb8c0355e10028c31d&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFlNTYzZDdlLTA2OWEtNDY1ZS04NTc1LTYxNmIxNzVkZDRhOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiOWU5MWRlNy02N2E2LTExZWQtYWMxNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjQ1LjE2Ny4xODMuMTUxIiwiY2l0eSI6IkFyYWNhcmlndWFtYSIsInBvc3RhbENvZGUiOiIxODE0NyIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yMy40MTk2LCJkZXZpY2VMb24iOi00Ny4wNzc4LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMDcuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjcuMS0zOGQ1MjE4ODliNWMyY2QwMDlkMjllZmI4YzAzNTVlMTAwMjhjMzFkIiwiY2xpZW50SUQiOiI0YzViNjE2Zi02NWYwLTRiOGYtYmEzYS1hODk2MjFkNjhlN2UiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW9fUGF1bG8iLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjY4ODQ4OTI5LCJqdGkiOiIzM2FlZGJiNS03MTdlLTQ5NzQtYjk0ZS0yZmU0ODlmOTE0NjYiLCJpYXQiOjE2Njg4MjAxMjksImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpCUjpOR00xWWpZeE5tWXROalZtTUMwMFlqaG1MV0poTTJFdFlUZzVOakl4WkRZNFpUZGwifQ.i9np5_qEFLBnpeaaPipHYrXSi0YvUgHtoS1Jvwc7BvE
+#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:0,Record Rn tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record Rn
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
+#EXTINF:0,RECORD TV MT tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" -RECORD TV MT
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+#EXTINF:0,Rede TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e8ef093080725.5e5c072fa346f.gif" -Rede TV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+#EXTINF:0,Rede TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e8ef093080725.5e5c072fa346f.gif" -Rede TV
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:0,TV JORNAL RECIFE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://musikcity.mus.br/TV/figuras/tvjornal.png" -TV JORNAL RECIFE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8?LISTASGLAU
+#EXTINF:0,TV Pantanal tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/angJ7QkPcmIAAAAC/pantanal-novela.gif" -TV Pantanal
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+#EXTINF:0,TV TI VEJO tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/25af72ad702b967819479326866dd21b.webp" -TV TI VEJO
+https://stmv1.srvif.com/ddacostenaro/ddacostenaro/chunklist_w609601573.m3u8
+
+#EXTINF:0,TV ABERTA SÃO PAULO tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif" -TV ABERTA SÃO PAULO
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1489292885.m3u8
+#EXTINF:0,LAVRAS CE TV WEB tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-3jeIpyaiJLC0oitKAMMoJU3BH5YcZgcg26rYq=s900-c-k-c0x00ffffff-no-rj" -LAVRAS CE TV WEB
+https://stmv1.srvstm.com/igor8605/igor8605/chunklist_w1836066320.m3u8
+#EXTINF:0,TV MEU XODÔ tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsicon/2020/08/com-stmvideo-webtv-tvmeuxodo.jpg&size=200" -TV MEU XODÔ
+https://5d82644094cc0.streamlock.net/8192/8192/chunklist_w1531859151.m3u8
+#EXTINF:0,TV CLUBE WEB tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c15e9e9796912ff00a4717b498485b36.webp" -TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
+#EXTINF:0,TV SÉRIES – GUERRA, SOMBRA E ÁGUA FRESCA tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.ytimg.com/vi/dyMJhBcYVsg/maxresdefault.jpg" -TV SÉRIES – GUERRA, SOMBRA E ÁGUA FRESCA
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w983909720.m3u8
+#EXTINF:0,QUEENS UNITED TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqAfvlN5aGiwxkXJ_ia18QoIXPO99zUAu1hvWaGBe9KI53lNvibtqIt1YefW0R9q73rQM&usqp=CAU" -QUEENS UNITED TV
+https://cdn.connectbr.com.br/Queens/tracks-v1a1/mono.m3u8
+#EXTINF:0,TVÍDEONEWS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://yt3.ggpht.com/Spi2vMCGobiGU2uRzdaYxqSWYG2BDmZdgTLWxGpnM5EENONwqTxSJzKKv2y0MabKXyc_z19k=s900-c-k-c0x00ffffff-no-rj" -TVÍDEONEWS
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w610552477.m3u8
+#EXTINF:0,TV POTENGI tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.ytimg.com/vi/nA8nRIVjz1U/maxresdefault.jpg" -TV POTENGI
+https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist_w1187580737.m3u8
+#EXTINF:0,TELA VIVA TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://240183188b.cbaul-cdnwnd.com/d0469b43bfdcac8221dbff68e43222b8/200000075-249c9249ca/fundo%20para%20you%20tube%20tela%20viva.png?ph=240183188b" -TELA VIVA TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w727529507.m3u8
+#EXTINF:0,TV JAPI tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://lh3.googleusercontent.com/-zUnkYCsmslI/X0KQXxpuqCI/AAAAAAAA45s/sEyrHm54DY0bc8luE0LigeOCMKfBVZPUQCK8BGAsYHg/s0/2020-08-23.png" -TV JAPI
+https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1234003253.m3u8
+#EXTINF:0,Terra Viva tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" -Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:0,TV Aparecida tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://s2.glbimg.com/1na0NoIdkfMfgn0zRX0yAKsDxvI=/570x620/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/Q/EdxH1USqCDFh2pTN90zA/missa.gif" -TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0,TV Conquista tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdkWr4SZD9exJmnBd9MGGbaLUnPI6PBuG8ksIyLc1lwYjhW563veBi0RydNLOXIHghwE&usqp=CAU" -TV Conquista
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+#EXTINF:0,TV Câmara tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.gifer.com/YDOt.gif" -TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0,TV Tropical tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/CXiRo7MMRsYJ4eEoze/200w.gif" -TV Tropical
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
+#EXTINF:0,TV evangelizar tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://vemfestival.com.br/wp-content/uploads/2022/08/SITE-MENOR.gif" -TV evangelizar
+https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
+#EXTINF:0,Rede Brasil de Comunicação tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-7EBxlNt9qig/UuEl723w8nI/AAAAAAAABy4/h0qXySCAyDY/s1600/LOGO+DA+RBC+TV.png" -Rede Brasil de Comunicação
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:0,Rede Gospel tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://pbs.twimg.com/profile_images/675441084/redegospel_tv_400x400.jpg" -Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:0,Rede TV! Pampa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media3.giphy.com/media/f7XWtmq9LUqCUCPFxa/giphy.gif" -Rede TV! Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:0,TV GALEGA tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" -TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
+#EXTINF:0,KURIAKOS KIDS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://lh3.googleusercontent.com/-W_jscxhf96c/X0KPYPMq3XI/AAAAAAAA45Q/G-98h8idnbA08Z_uIiGV9IHWZHDkI6r2gCK8BGAsYHg/s0/2020-08-23.png" -KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1294436332_b413000_sleng.m3u8
+#EXTINF:0,YELLOW TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.gifer.com/J9ZH.gif" -YELLOW TV
+https://serv3.videovox.pw/gilferson4004/gilferson4004/chunklist_w1951483569.m3u8
+#EXTINF:0,TV FAAP tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://play-lh.googleusercontent.com/ttOH9c3Rjl8ZWptdXUkgf00Hvw9-9PRdsoVr2e6Wy2O3dUa5XqgFb6TUgBFi8zNEGXU" -TV FAAP
+https://midia.faap.net/faaplatamlive-live/stream_720/chunklist_w386799166.m3u8
+#EXTINF:0,CLASSIQUE TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://1.bp.blogspot.com/-JsTEwsw1-FQ/YM9qe1_J1iI/AAAAAAAAE48/nAOnbSjZHhgQ9-Hoyc0b4smdZtChLFJCwCLcBGAsYHQ/s0/CLASSIQUE%2BTV.png" -CLASSIQUE TV
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+#EXTINF:0,WEB TV PROGRESSO tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjP3vs3i3ExQ7cGPP7Y_OYdxbB6wuWYYLeyeVuelnHB3ElpAyI4OP_YpOgeE2PxvLXjTId2XJcm-i-AduNmr-9yFzTQVI-UrPydO6OoZ-kLNsSg33cIlHOq_-0clZalIqbWTW04sHaJsEZoMiwjR4HXhMv0ucn4iHG1-rUF1DUduOLNhsjo57gNd-Io=w1200-h630-p-k-no-nu" -WEB TV PROGRESSO
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w1038529428.m3u8
+#EXTINF:0,TV ALIANÇA CATARINENSE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvaliancasc.com.br/assets/img/logo-tvalianca-selo-transparente.png" -TV ALIANÇA CATARINENSE
+https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
+#EXTINF:0,TTv Imprensa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.radioimprensa.tv/wp-content/uploads/sites/30/2022/02/cropped-logotipo-1.png" -Tv Imprensa
+https://tv02.zas.media:1936/imprensa/imprensa/chunklist_w881661499.m3u8
+#EXTINF:0,Mamonas Assasinas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://64.media.tumblr.com/33dea8500150207e89c1385b4fd08573/tumblr_n7ohvmZTQy1r8e1a3o4_250.gif" -Mamonas Assasinas
+https://play.prod.gcp.vix.services/mamonas-pra-sempre_pt/mamonas-pra-sempre_pt_1-1/play_v1_hls_1080p.m3u8
+
 #EXTM3U url-tvg=" http://grade-de-filmes.xml "
 
  ############## filmes ############## ###   
@@ -522,6 +687,97 @@ https://e-3.dokicloud.one/_v8/ddd9f115d8348e29f22b1adb593b244964ac970e1f035be859
 https://e-3.dokicloud.one/_v8/fdbdde7f2a95777b0f62a8c1253275c0a9b48128236e6cc89fdf98458aadc9c2c85c1ce29c280bb243634b9752e5b9ca99fdde495797ffd3cb7f4dbdda44f375d2b9dd73f6ead7562c3f1df554c9645d29b036f646e5dce9c4168acb6789382fe926d0d17f909b314f84ea2f6192222fa072720aeffb908877123ebd89a79df6/1080/index.m3u8
 #EXTINF:0,Temporada 1 - Episódio 8: Minha Palavra é meu vinculo tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 8: Minha Palavra é meu vinculo
 https://e-8.dokicloud.one/_v8/426dd31f1a731714111659b0a1756ce85dcb6258fcfaac3610e9484f8602504f902966eee4accf38b0592e170966e1940fd100e919671a8251e28c008e053ef80e0aaa9474c6a4e926c076dd62dd1b7cab2e8de40aee61bde017ebddc2ef5a50a8019708a004ee7605edffea11db4df56107ea7842ff92092a449bc4725bf1d4/1080/index.m3u8
+#EXTM3U url-tvg=" http://grade-de-infanti.xml "
+
+ ############## infantil ################ # 
+
+#EXTINF:-1 tvg-id=" iddocanaldeinfantil " group-title="
+
+#EXTINF:0,Tartarugas Ninjas tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://pa1.narvii.com/6902/c2eebcbb24b4128a19de9eb223acbbe3addb9972r1-500-280_hq.gif" -Tartarugas Ninjas
+https://play.prod.gcp.vix.services/teenage-mutant-ninja-turtles_pt/teenage-mutant-ninja-turtles_pt_1-1/hls_2500.m3u8
+#EXTINF:0,Monica tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/TQIJ27YF7bIAAAAC/turma-da-monica-monica.gif" -Monica
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Monica tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/TQIJ27YF7bIAAAAC/turma-da-monica-monica.gif" -Monica
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Os Anjinhos tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/8b/f4/4d/8bf44ddc23d678af55c9819d53a7e94e.gif" -Os Anjinhos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,As Aventuras de Jackie Chan tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/fc/fc/5c/fcfc5cb5c3a81c8828615ef6848bad30.gif" -As Aventuras de Jackie Chan
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,As Aventuras de Jackie Chan tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/fc/fc/5c/fcfc5cb5c3a81c8828615ef6848bad30.gif" -As Aventuras de Jackie Chan
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Beyblade tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/4b/7a/eb/4b7aeb7ddb78b7d0a6f08f695208d2ae.gif" -Beyblade
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
+#EXTINF:0,Beyblade tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://www.icegif.com/wp-content/uploads/2022/06/icegif-375.gif" -Beyblade
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Beyblade tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/Ce_iI765nq0AAAAd/beyblade-free.gif" -Beyblade
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Babyfirst tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media0.giphy.com/media/XfDpE3gHXrjdZtcPcw/200w.gif?cid=82a1493b2v5rm3p6dv135id4r5brk8fu55ua2pl5fsddhh2c&rid=200w.gif&ct=g" -Babyfirst
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Babyfirst tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media1.giphy.com/media/fAKThZs5sM7K3XqHw7/200w.gif?cid=6c09b952pxjd839v4gr5vb3prlk8qqw1f4jmj55awpnui55w&rid=200w.gif&ct=g" -Babyfirst
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Bob Esponja tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/81/c9/fc/81c9fc92d868081b65ac8173159faa1e.gif" -Bob Esponja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Desenhos antigos tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://thumbs.gfycat.com/SnappyFrighteningAmazonparrot-max-1mb.gif" -Desenhos antigos
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:0,Anime tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media3.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif" -Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Anime tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/fe/31/5b/fe315b4cd83ccf7dd185aa0970fb9ecc.gif" -Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Anime tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/0b/c0/00/0bc0009a819d2231807ae7886112d191.gif" -Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Anime tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/wNTOa_xu-xkAAAAd/anime-lightning.gif" -Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Cocoricó tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.makeagif.com/media/6-12-2016/KSMS6v.gif" -Cocoricó
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,Os Anjinhos tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://pa1.narvii.com/6434/a6766a4a7c261f4c71e7c8b6a7b73f0dc18d560c_hq.gif" -Os Anjinhos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0,Luz, Camera, Ação tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif" -Luz, Camera, Ação
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-5/thumbs_640x360.m3u8
+#EXTINF:0,Hora do Banho tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif" -Hora do Banho
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-6/thumbs_320x180.m3u8
+#EXTINF:0,Bagunça Animal tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif" -Bagunça Animal
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-7/thumbs_320x180.m3u8
+#EXTINF:0,Cine Gibi 8: ...Tá Brincando tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif" -Cine Gibi 8: ...Tá Brincando
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-8/thumbs_640x360.m3u8
+#EXTINF:0,Naruto tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://thumbs.gfycat.com/AffectionateSmallIrishterrier-max-1mb.gif" -Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Kids tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://thumbs.gfycat.com/CautiousWellgroomedLeafwing-size_restricted.gif" -Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Bob Esponja Calça Quadrada tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.gifer.com/7GDX.gif" -Bob Esponja Calça Quadrada
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Turma da Mônica tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/8POLqSLpa8cAAAAC/monica-susto.gif" -Turma da Mônica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,O Reino Infantil tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/2a/c8/b1/2ac8b1237027b374246f34edbc0ad838.gif" -O Reino Infantil
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,jetsons tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/18/32/43/183243f9b5725797d46158f8a66afbef.gif" -jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w975554247.m3u8
+#EXTINF:0,Car City: Construction Squad 1 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5bfbe93d627885aa54a17c6bac312d1e70cfc12d07b27daa8e9ecdd8cbbe96cb._RI_.jpg" -Car City: Construction Squad 1
+https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Car City: Construction Squad 2 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.ytimg.com/vi/E3O0KrW9WbM/maxresdefault.jpg" -Car City: Construction Squad 2
+https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-2/play_v1_hls_1080p.m3u8
+#EXTINF:0,Car City: Construction Squad 3 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI3YjQyZGEtZWJkMy00OWMyLWFjZTktZmZiOThiNGIyMTY4XkEyXkFqcGdeQXVyODg1Njg2Njc@._V1_.jpg" -Car City: Construction Squad 3
+https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-3/play_v1_hls_1080p.m3u8
+#EXTINF:0,Car City: Construction Squad 4 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.ytimg.com/vi/6vIg84Oh8rU/maxresdefault.jpg" -Car City: Construction Squad 4
+https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-4/play_v1_hls_1080p.m3u8
+#EXTINF:0,Car City: Construction Squad 5 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.ytimg.com/vi/55hsL9ewec8/maxresdefault.jpg" -Car City: Construction Squad 5
+https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-5/play_v1_hls_1080p.m3u8
+#EXTINF:0,As Travessuras de Uma Sereia tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/the-mermaid_pt/the-mermaid_pt_200x300.jpg" -As Travessuras de Uma Sereia
+https://play.prod.gcp.vix.services/the-mermaid_pt/the-mermaid_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Vampiras tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/vamps-2012_pt/vamps-2012_pt_200x300.jpg" -Vampiras
+https://play.prod.gcp.vix.services/vamps-2012_pt/vamps-2012_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Sobre Rodas tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/sobre-rodas_pt/sobre-rodas_pt_200x300.jpg" -Sobre Rodas
+https://play.prod.gcp.vix.services/sobre-rodas_pt/sobre-rodas_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Cara, Cadê Meu Cachorro? tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/wheres-my-dog_pt/wheres-my-dog_pt_200x300.jpg" -Cara, Cadê Meu Cachorro?
+https://play.prod.gcp.vix.services/wheres-my-dog_pt/wheres-my-dog_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Tudo Azul tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/kabluey_pt/kabluey_pt_200x300.jpg" -Tudo Azul
+https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Até o Limite tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/mans-best-friend_pt/mans-best-friend_pt_200x300.jpg" -Até o Limite
+https://play.prod.gcp.vix.services/mans-best-friend_pt/mans-best-friend_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Dummie a Múmia e a Tumba de Achnetut tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/dummie-mummy-3_pt/dummie-mummy-3_pt_200x300.jpg" -Dummie a Múmia e a Tumba de Achnetut
+https://play.prod.gcp.vix.services/dummie-mummy-3_pt/dummie-mummy-3_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Garoto Formiga 3 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/antboy-3_pt/antboy-3_pt_200x300.jpg" -Garoto Formiga 3
+https://play.prod.gcp.vix.services/antboy-3_pt/antboy-3_pt_1-1/hls_2500.m3u8
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/698
 
 #EXTM3U url-tvg=" http://grade-de-sporte.xml "  
           
@@ -824,97 +1080,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d344
 #EXTINF:0,Filmes Suspense tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="http://cdn.fstatic.com/public/articles/files/2014/03/5c1e25b4-e87a-49cb-8435-f17ba4b8c2f9.gif" -Filmes Suspense
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTM3U url-tvg=" http://grade-de-infanti.xml "
 
- ############## infantil ################ # 
-
-#EXTINF:-1 tvg-id=" iddocanaldeinfantil " group-title="
-
-#EXTINF:0,Tartarugas Ninjas tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://pa1.narvii.com/6902/c2eebcbb24b4128a19de9eb223acbbe3addb9972r1-500-280_hq.gif" -Tartarugas Ninjas
-https://play.prod.gcp.vix.services/teenage-mutant-ninja-turtles_pt/teenage-mutant-ninja-turtles_pt_1-1/hls_2500.m3u8
-#EXTINF:0,Monica tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/TQIJ27YF7bIAAAAC/turma-da-monica-monica.gif" -Monica
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Monica tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/TQIJ27YF7bIAAAAC/turma-da-monica-monica.gif" -Monica
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Os Anjinhos tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/8b/f4/4d/8bf44ddc23d678af55c9819d53a7e94e.gif" -Os Anjinhos
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0,As Aventuras de Jackie Chan tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/fc/fc/5c/fcfc5cb5c3a81c8828615ef6848bad30.gif" -As Aventuras de Jackie Chan
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:0,As Aventuras de Jackie Chan tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/fc/fc/5c/fcfc5cb5c3a81c8828615ef6848bad30.gif" -As Aventuras de Jackie Chan
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0,Beyblade tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/4b/7a/eb/4b7aeb7ddb78b7d0a6f08f695208d2ae.gif" -Beyblade
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-#EXTINF:0,Beyblade tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://www.icegif.com/wp-content/uploads/2022/06/icegif-375.gif" -Beyblade
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0,Beyblade tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/Ce_iI765nq0AAAAd/beyblade-free.gif" -Beyblade
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:0,Babyfirst tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media0.giphy.com/media/XfDpE3gHXrjdZtcPcw/200w.gif?cid=82a1493b2v5rm3p6dv135id4r5brk8fu55ua2pl5fsddhh2c&rid=200w.gif&ct=g" -Babyfirst
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:0,Babyfirst tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media1.giphy.com/media/fAKThZs5sM7K3XqHw7/200w.gif?cid=6c09b952pxjd839v4gr5vb3prlk8qqw1f4jmj55awpnui55w&rid=200w.gif&ct=g" -Babyfirst
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0,Bob Esponja tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/81/c9/fc/81c9fc92d868081b65ac8173159faa1e.gif" -Bob Esponja
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0,Desenhos antigos tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://thumbs.gfycat.com/SnappyFrighteningAmazonparrot-max-1mb.gif" -Desenhos antigos
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-#EXTINF:0,Anime tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media3.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif" -Anime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:0,Anime tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/fe/31/5b/fe315b4cd83ccf7dd185aa0970fb9ecc.gif" -Anime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0,Anime tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/0b/c0/00/0bc0009a819d2231807ae7886112d191.gif" -Anime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:0,Anime tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/wNTOa_xu-xkAAAAd/anime-lightning.gif" -Anime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0,Cocoricó tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.makeagif.com/media/6-12-2016/KSMS6v.gif" -Cocoricó
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0,Os Anjinhos tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://pa1.narvii.com/6434/a6766a4a7c261f4c71e7c8b6a7b73f0dc18d560c_hq.gif" -Os Anjinhos
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:0,Luz, Camera, Ação tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif" -Luz, Camera, Ação
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-5/thumbs_640x360.m3u8
-#EXTINF:0,Hora do Banho tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif" -Hora do Banho
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-6/thumbs_320x180.m3u8
-#EXTINF:0,Bagunça Animal tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif" -Bagunça Animal
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-7/thumbs_320x180.m3u8
-#EXTINF:0,Cine Gibi 8: ...Tá Brincando tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif" -Cine Gibi 8: ...Tá Brincando
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-8/thumbs_640x360.m3u8
-#EXTINF:0,Naruto tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://thumbs.gfycat.com/AffectionateSmallIrishterrier-max-1mb.gif" -Naruto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,Pluto TV Kids tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://thumbs.gfycat.com/CautiousWellgroomedLeafwing-size_restricted.gif" -Pluto TV Kids
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,Bob Esponja Calça Quadrada tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.gifer.com/7GDX.gif" -Bob Esponja Calça Quadrada
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,Turma da Mônica tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://media.tenor.com/8POLqSLpa8cAAAAC/monica-susto.gif" -Turma da Mônica
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,O Reino Infantil tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/2a/c8/b1/2ac8b1237027b374246f34edbc0ad838.gif" -O Reino Infantil
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,jetsons tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.pinimg.com/originals/18/32/43/183243f9b5725797d46158f8a66afbef.gif" -jetsons
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w975554247.m3u8
-#EXTINF:0,Car City: Construction Squad 1 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5bfbe93d627885aa54a17c6bac312d1e70cfc12d07b27daa8e9ecdd8cbbe96cb._RI_.jpg" -Car City: Construction Squad 1
-https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Car City: Construction Squad 2 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.ytimg.com/vi/E3O0KrW9WbM/maxresdefault.jpg" -Car City: Construction Squad 2
-https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-2/play_v1_hls_1080p.m3u8
-#EXTINF:0,Car City: Construction Squad 3 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI3YjQyZGEtZWJkMy00OWMyLWFjZTktZmZiOThiNGIyMTY4XkEyXkFqcGdeQXVyODg1Njg2Njc@._V1_.jpg" -Car City: Construction Squad 3
-https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-3/play_v1_hls_1080p.m3u8
-#EXTINF:0,Car City: Construction Squad 4 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.ytimg.com/vi/6vIg84Oh8rU/maxresdefault.jpg" -Car City: Construction Squad 4
-https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-4/play_v1_hls_1080p.m3u8
-#EXTINF:0,Car City: Construction Squad 5 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://i.ytimg.com/vi/55hsL9ewec8/maxresdefault.jpg" -Car City: Construction Squad 5
-https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-5/play_v1_hls_1080p.m3u8
-#EXTINF:0,As Travessuras de Uma Sereia tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/the-mermaid_pt/the-mermaid_pt_200x300.jpg" -As Travessuras de Uma Sereia
-https://play.prod.gcp.vix.services/the-mermaid_pt/the-mermaid_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Vampiras tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/vamps-2012_pt/vamps-2012_pt_200x300.jpg" -Vampiras
-https://play.prod.gcp.vix.services/vamps-2012_pt/vamps-2012_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Sobre Rodas tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/sobre-rodas_pt/sobre-rodas_pt_200x300.jpg" -Sobre Rodas
-https://play.prod.gcp.vix.services/sobre-rodas_pt/sobre-rodas_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Cara, Cadê Meu Cachorro? tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/wheres-my-dog_pt/wheres-my-dog_pt_200x300.jpg" -Cara, Cadê Meu Cachorro?
-https://play.prod.gcp.vix.services/wheres-my-dog_pt/wheres-my-dog_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Tudo Azul tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/kabluey_pt/kabluey_pt_200x300.jpg" -Tudo Azul
-https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Até o Limite tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/mans-best-friend_pt/mans-best-friend_pt_200x300.jpg" -Até o Limite
-https://play.prod.gcp.vix.services/mans-best-friend_pt/mans-best-friend_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Dummie a Múmia e a Tumba de Achnetut tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/dummie-mummy-3_pt/dummie-mummy-3_pt_200x300.jpg" -Dummie a Múmia e a Tumba de Achnetut
-https://play.prod.gcp.vix.services/dummie-mummy-3_pt/dummie-mummy-3_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Garoto Formiga 3 tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/antboy-3_pt/antboy-3_pt_200x300.jpg" -Garoto Formiga 3
-https://play.prod.gcp.vix.services/antboy-3_pt/antboy-3_pt_1-1/hls_2500.m3u8
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/698
 
 #EXTM3U url-tvg=" http://grade-de-TerrorSuspensel.xml "
 
@@ -1000,154 +1166,7 @@ https://alanza.iptv2022.com/FRONTEIRA_KIDS/tracks-v1a1/mono.m3u8
 #EXTINF:0,DESENHOS BIBLICOS tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.pinimg.com/originals/5e/9d/59/5e9d5919eb5d4e5277956d5d5fb46b61.gif" -DESENHOS BIBLICOS
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/111160
 
-#EXTM3U url-tvg=" http://grade-de-tvaberta.xml "
 
- ############## tvaberta ############## ###   
-
-#EXTINF:-1 tvg-id=" iddocanaldetvaberta " group-title="
-
-#EXTINF:0,BAND Minas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzCCdYyV1PGPBg-cCc4DWY9afb1KTOyi7oazjqzryAwDSC3UJELMyAKooAiiyfW3I0gis&usqp=CAU" -BAND Minas
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108301
-#EXTINF:0,BAND MAIS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.bandfmcampinas.com/files/2019/06/LOGO-BAND-MAIS.png" -BAND MAIS
-https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
-#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
-https://googlez03.ml/canais/Band/Band_20221114030907_7250_01864208_9999978.json
-#EXTINF:0,BAND CAMPINAS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://c.tenor.com/ogR-o9Nze0IAAAAC/band-tv.gif" -BAND CAMPINAS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125565
-#EXTINF:0,BAND CAMPINAS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://c.tenor.com/ogR-o9Nze0IAAAAC/band-tv.gif" -BAND CAMPINAS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125564
-#EXTINF:0,TV Cultura tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" -TV Cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w551574057.m3u8
-#EXTINF:0,TVI Reality tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://play-lh.googleusercontent.com/oFh4WmL_VSQb82kt5JIPZettoG4SJ_QrEs9pdiJ7RCuxL__j8AT4PG5f_TA7RtndQUM" -TVI Reality
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
-#EXTINF:0,TV NOVA NORDESTE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.picasion.com/pic92/1a317149a5ced47235401c8a704221cb.gif" -TV NOVA NORDESTE
-https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
-#EXTINF:0,TV Jornal Caruaru (SBT PE) tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/43a5c48b9848b88ba8ba2b63bd79940f.webp" -TV Jornal Caruaru (SBT PE)
-https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w547023660.m3u8
-#EXTINF:0,Nickelodeon tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/gqo-NPXflIwAAAAM/nickelodeon-slime.gif" -Nickelodeon
-https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
-#EXTINF:0,conect tv tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tv.conectnet.net/logo/main-logo.png" -conect tv
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?rand=0.8449174441721692
-#EXTINF:0,TV Vitória (Record ES) tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TV_Vit%C3%B3ria_logo_antiga.png/revision/latest/scale-to-width-down/250?cb=20211025220834" -TV Vitória (Record ES)
-https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1351588134.m3u8?PlaylistM3UCL
-#EXTINF:0,SBT Caruaru tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i0.wp.com/portalaltadefinicao.com/wp-content/uploads/2019/01/TV-Jornal-afiliada-do-SBT-1.jpg?fit=1200%2C675&ssl=1" -SBT Caruaru
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT TV
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-#EXTINF:0,SBT Rede Massa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media0.giphy.com/media/Bq6n0ISofXgM4YxG6A/giphy.gif?cid=6c09b9526cowzdkcvkqufkm3mrbiqf9k3a1pewpup6sg7bbr&rid=giphy.gif&ct=s" -SBT Rede Massa
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:0,TV agua boa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/13c521cefbb5fde40d549a9d66891530.webp" -TV agua boa
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT TV
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:0,SBT interior tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.makeagif.com/media/6-22-2016/sHf3O7.gif" -SBT TV
-https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/68109c4b-305e-4b90-899f-415bdf57b476/depiaao-80edd11e-2846-4eeb-84da-0978fa236a31.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4MTA5YzRiLTMwNWUtNGI5MC04OTlmLTQxNWJkZjU3YjQ3NlwvZGVwaWFhby04MGVkZDExZS0yODQ2LTRlZWItODRkYS0wOTc4ZmEyMzZhMzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sRd8THVhJKT3pGtR4-Fb1ne4XeD6jUlES2oyhnPN1dU" -SBT TV
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.makeagif.com/media/6-22-2016/bzGtbR.gif" -SBT TV
-https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/85SU4CP1yvUAAAAM/sorriso-feliz.gif" -SBT TV
-https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/85SU4CP1yvUAAAAM/sorriso-feliz.gif" -SBT TV
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:0,Globo SP TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo SP TV
-http://tv1.cs10.tv:25461/live/imp55043385/74352/8.m3u8
-#EXTINF:0,Globo SP TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo SP TV
-https://server100.online/globo-nordeste/tracks-v1a1/mono.m3u8?token=1cdce2b7e4682b0ea9c6bb1d2973e57aa9643a00-086e6df6001e3ada2856c28d189f4479-1670278215-1670274615
-#EXTINF:0,SBT Rede Massa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media0.giphy.com/media/Bq6n0ISofXgM4YxG6A/200w.gif?cid=82a1493bcfgrui5wravrvbatlik0i8fdqka0ibv59gxsqm0p&rid=200w.gif&ct=s" -SBT Rede Massa
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
-https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
-#EXTINF:0,Record tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/giphy.gif?cid=6c09b952d8cb51e6bd3daef49aadb35d9c2a00b319873d86&rid=giphy.gif&ct=s" -Record 
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:0,record news tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/uDGUQcQoEJ0AAAAM/plantao-extra-jornal-record-breaking-news-1995.gif" -record news
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Record tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
-#EXTINF:0,Record tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/61f185ae10150a0007049e0c/2142297/playlist.m3u8?terminate=false&sid=b9e91de7-67a6-11ed-ac14-0242ac110003&deviceDNT=0&deviceLat=-23.4196&deviceLon=-47.0778&deviceModel=web&deviceVersion=107.0.0&serverSideAds=true&appName=web&deviceId=4c5b616f-65f0-4b8f-ba3a-a89621d68e7e&appVersion=6.7.1-38d521889b5c2cd009d29efb8c0355e10028c31d&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFlNTYzZDdlLTA2OWEtNDY1ZS04NTc1LTYxNmIxNzVkZDRhOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiOWU5MWRlNy02N2E2LTExZWQtYWMxNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjQ1LjE2Ny4xODMuMTUxIiwiY2l0eSI6IkFyYWNhcmlndWFtYSIsInBvc3RhbENvZGUiOiIxODE0NyIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yMy40MTk2LCJkZXZpY2VMb24iOi00Ny4wNzc4LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMDcuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjcuMS0zOGQ1MjE4ODliNWMyY2QwMDlkMjllZmI4YzAzNTVlMTAwMjhjMzFkIiwiY2xpZW50SUQiOiI0YzViNjE2Zi02NWYwLTRiOGYtYmEzYS1hODk2MjFkNjhlN2UiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW9fUGF1bG8iLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjY4ODQ4OTI5LCJqdGkiOiIzM2FlZGJiNS03MTdlLTQ5NzQtYjk0ZS0yZmU0ODlmOTE0NjYiLCJpYXQiOjE2Njg4MjAxMjksImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpCUjpOR00xWWpZeE5tWXROalZtTUMwMFlqaG1MV0poTTJFdFlUZzVOakl4WkRZNFpUZGwifQ.i9np5_qEFLBnpeaaPipHYrXSi0YvUgHtoS1Jvwc7BvE
-#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
-https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:0,Record Rn tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record Rn
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
-#EXTINF:0,RECORD TV MT tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" -RECORD TV MT
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-#EXTINF:0,Rede TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e8ef093080725.5e5c072fa346f.gif" -Rede TV
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
-#EXTINF:0,Rede TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e8ef093080725.5e5c072fa346f.gif" -Rede TV
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:0,TV JORNAL RECIFE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://musikcity.mus.br/TV/figuras/tvjornal.png" -TV JORNAL RECIFE
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8?LISTASGLAU
-#EXTINF:0,TV Pantanal tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/angJ7QkPcmIAAAAC/pantanal-novela.gif" -TV Pantanal
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:0,TV ABERTA SÃO PAULO tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif" -TV ABERTA SÃO PAULO
-https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1489292885.m3u8
-#EXTINF:0,LAVRAS CE TV WEB tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-3jeIpyaiJLC0oitKAMMoJU3BH5YcZgcg26rYq=s900-c-k-c0x00ffffff-no-rj" -LAVRAS CE TV WEB
-https://stmv1.srvstm.com/igor8605/igor8605/chunklist_w1836066320.m3u8
-#EXTINF:0,TV MEU XODÔ tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsicon/2020/08/com-stmvideo-webtv-tvmeuxodo.jpg&size=200" -TV MEU XODÔ
-https://5d82644094cc0.streamlock.net/8192/8192/chunklist_w1531859151.m3u8
-#EXTINF:0,TV CLUBE WEB tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c15e9e9796912ff00a4717b498485b36.webp" -TV CLUBE WEB
-https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
-#EXTINF:0,TV SÉRIES – GUERRA, SOMBRA E ÁGUA FRESCA tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.ytimg.com/vi/dyMJhBcYVsg/maxresdefault.jpg" -TV SÉRIES – GUERRA, SOMBRA E ÁGUA FRESCA
-https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w983909720.m3u8
-#EXTINF:0,QUEENS UNITED TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqAfvlN5aGiwxkXJ_ia18QoIXPO99zUAu1hvWaGBe9KI53lNvibtqIt1YefW0R9q73rQM&usqp=CAU" -QUEENS UNITED TV
-https://cdn.connectbr.com.br/Queens/tracks-v1a1/mono.m3u8
-#EXTINF:0,TVÍDEONEWS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://yt3.ggpht.com/Spi2vMCGobiGU2uRzdaYxqSWYG2BDmZdgTLWxGpnM5EENONwqTxSJzKKv2y0MabKXyc_z19k=s900-c-k-c0x00ffffff-no-rj" -TVÍDEONEWS
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w610552477.m3u8
-#EXTINF:0,TV POTENGI tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.ytimg.com/vi/nA8nRIVjz1U/maxresdefault.jpg" -TV POTENGI
-https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist_w1187580737.m3u8
-#EXTINF:0,TELA VIVA TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://240183188b.cbaul-cdnwnd.com/d0469b43bfdcac8221dbff68e43222b8/200000075-249c9249ca/fundo%20para%20you%20tube%20tela%20viva.png?ph=240183188b" -TELA VIVA TV
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w727529507.m3u8
-#EXTINF:0,TV JAPI tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://lh3.googleusercontent.com/-zUnkYCsmslI/X0KQXxpuqCI/AAAAAAAA45s/sEyrHm54DY0bc8luE0LigeOCMKfBVZPUQCK8BGAsYHg/s0/2020-08-23.png" -TV JAPI
-https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1234003253.m3u8
-#EXTINF:0,Terra Viva tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" -Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:0,TV Aparecida tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://s2.glbimg.com/1na0NoIdkfMfgn0zRX0yAKsDxvI=/570x620/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/Q/EdxH1USqCDFh2pTN90zA/missa.gif" -TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:0,TV Conquista tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdkWr4SZD9exJmnBd9MGGbaLUnPI6PBuG8ksIyLc1lwYjhW563veBi0RydNLOXIHghwE&usqp=CAU" -TV Conquista
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
-#EXTINF:0,TV Câmara tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.gifer.com/YDOt.gif" -TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:0,TV Tropical tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/CXiRo7MMRsYJ4eEoze/200w.gif" -TV Tropical
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-#EXTINF:0,TV evangelizar tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://vemfestival.com.br/wp-content/uploads/2022/08/SITE-MENOR.gif" -TV evangelizar
-https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
-#EXTINF:0,Rede Brasil de Comunicação tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-7EBxlNt9qig/UuEl723w8nI/AAAAAAAABy4/h0qXySCAyDY/s1600/LOGO+DA+RBC+TV.png" -Rede Brasil de Comunicação
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-#EXTINF:0,Rede Gospel tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://pbs.twimg.com/profile_images/675441084/redegospel_tv_400x400.jpg" -Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:0,Rede TV! Pampa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media3.giphy.com/media/f7XWtmq9LUqCUCPFxa/giphy.gif" -Rede TV! Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:0,TV GALEGA tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" -TV GALEGA
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
-#EXTINF:0,KURIAKOS KIDS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://lh3.googleusercontent.com/-W_jscxhf96c/X0KPYPMq3XI/AAAAAAAA45Q/G-98h8idnbA08Z_uIiGV9IHWZHDkI6r2gCK8BGAsYHg/s0/2020-08-23.png" -KURIAKOS KIDS
-https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1294436332_b413000_sleng.m3u8
-#EXTINF:0,YELLOW TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.gifer.com/J9ZH.gif" -YELLOW TV
-https://serv3.videovox.pw/gilferson4004/gilferson4004/chunklist_w1951483569.m3u8
-#EXTINF:0,TV FAAP tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://play-lh.googleusercontent.com/ttOH9c3Rjl8ZWptdXUkgf00Hvw9-9PRdsoVr2e6Wy2O3dUa5XqgFb6TUgBFi8zNEGXU" -TV FAAP
-https://midia.faap.net/faaplatamlive-live/stream_720/chunklist_w386799166.m3u8
-#EXTINF:0,CLASSIQUE TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://1.bp.blogspot.com/-JsTEwsw1-FQ/YM9qe1_J1iI/AAAAAAAAE48/nAOnbSjZHhgQ9-Hoyc0b4smdZtChLFJCwCLcBGAsYHQ/s0/CLASSIQUE%2BTV.png" -CLASSIQUE TV
-https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
-#EXTINF:0,WEB TV PROGRESSO tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjP3vs3i3ExQ7cGPP7Y_OYdxbB6wuWYYLeyeVuelnHB3ElpAyI4OP_YpOgeE2PxvLXjTId2XJcm-i-AduNmr-9yFzTQVI-UrPydO6OoZ-kLNsSg33cIlHOq_-0clZalIqbWTW04sHaJsEZoMiwjR4HXhMv0ucn4iHG1-rUF1DUduOLNhsjo57gNd-Io=w1200-h630-p-k-no-nu" -WEB TV PROGRESSO
-https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w1038529428.m3u8
-#EXTINF:0,TV ALIANÇA CATARINENSE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvaliancasc.com.br/assets/img/logo-tvalianca-selo-transparente.png" -TV ALIANÇA CATARINENSE
-https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
-#EXTINF:0,TTv Imprensa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.radioimprensa.tv/wp-content/uploads/sites/30/2022/02/cropped-logotipo-1.png" -Tv Imprensa
-https://tv02.zas.media:1936/imprensa/imprensa/chunklist_w881661499.m3u8
-#EXTINF:0,Mamonas Assasinas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://64.media.tumblr.com/33dea8500150207e89c1385b4fd08573/tumblr_n7ohvmZTQy1r8e1a3o4_250.gif" -Mamonas Assasinas
-https://play.prod.gcp.vix.services/mamonas-pra-sempre_pt/mamonas-pra-sempre_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-tvclips.xml "
 
@@ -1560,9 +1579,10 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
 #EXTM3U url-tvg=" http://grade-de-nao.xml "
 
  ############## nao ################ #   
-
 #EXTINF:-1 tvg-id=" iddocanaldenao " group-title="
 
+#EXTINF:0,Atribulado (1929) tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://media.tenor.com/GJQuOocp5iMAAAAC/so-que-nao-nope.gif" -Atribulado
+https://cdn77-vid.xvideos-cdn.com/vnCQ_MOd6w9sdn_4QSj9Kg==,1670470231/videos/hls/83/2b/97/832b970dc10960ef0e7e48efca623499-1/hls-720p.m3u8
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/321
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
