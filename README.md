@@ -552,6 +552,15 @@ https://play.prod.gcp.vix.services/mamonas-pra-sempre_pt/mamonas-pra-sempre_pt_1
  ############## filmes ############## ###   
 #EXTINF:-1 tvg-id=" iddocanaldefilmes " group-title="
 
+#EXTINF:0,negra wakanda tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://www.einerd.com.br/wp-content/uploads/2022/07/pantera-negra-wakanda-forever.jpg" -negra wakanda
+https://delivery-node-mikhail.voe-network.net/engine/hls2/01/08429/osvi54scd3fy_n/index-v1-a1.m3u8?t=2UL_S1nCZHHUIDBwQdrxmXl-eM67OOC2ELcu9bRj3js&s=1670644774&e=14400&f=42147721&node=delivery-node-mikhail.voe-network.net&i=45.167&sp=4500&asn=268042
+
+#EXTINF:0,Os Desaparecidos tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/welcome-willits_pt/welcome-willits_pt_200x300.jpg" -Os Desaparecidos
+https://play.prod.gcp.vix.services/welcome-willits_pt/welcome-willits_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Mulher Rei tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://www.itaucinemas.com.br/_img/_filmes/4887_capa.jpg?A-Mulher-Rei" -Mulher Rei
+https://s-delivery44.mxdcontent.net/v/a3bb06c4a3a085611835853dafc17666.mp4?s=zETvQqeob3tR-mLmrMLHyg&e=1670666881&_t=1670650386
+#EXTINF:0,adao negro tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://www.shoppinganaliafranco.com.br/sites/saf/files/cinema/ad__o-negro_1.jpg" -adao negro
+https://delivery-node-ibtisam.voe-network.net/engine/hls2/01/08438/9vrhzb9cvof7_n/index-v1-a1.m3u8?t=HfxB5N2JY3YYGMHbjaErqzT3bz6DLEO1mTNTd7Zm1DI&s=1670645000&e=14400&f=42192517&node=delivery-node-ibtisam.voe-network.net&i=45.167&sp=4500&asn=268042
 #EXTINF:0,Condenação Brutal tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://a-static.mlcdn.com.br/1500x1500/dvd-condenacao-brutal-sylvester-stallone-ma/brotherscom/9441485852/91e8931282f5634ff2ace9689617261d.jpg" -Condenação Brutal
 https://troy2.s3.us-central-1.wasabisys.com/cdn3/CondenacaoBrutal.mp4
 #EXTINF:0,Coisa-Malu  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://vdn.libreflix.org/covers/media/2017/coisa-malu-thumb.jpg?resize=480,270&crop=entropy" -Coisa-Malu
@@ -651,6 +660,59 @@ https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_2500.m3u8
 #EXTINF:0,kabluey tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://thumbs.gfycat.com/DelightfulSpanishBuffalo-size_restricted.gif" -kabluey
 https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
 
+
+#EXTM3U url-tvg=" http://grade-de-filmebiblico.xml "
+
+ ############## filmebiblico ############## ###   
+#EXTINF:-1 tvg-id=" iddocanaldefilmebiblico " group-title="
+
+#EXTINF:0,Maria Madalena tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_200x300.jpg" -Maria Madalena
+https://play.prod.gcp.vix.services/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Judas tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-giuda_pt/gli-amici-giuda_pt_200x300.jpg" -Judas
+https://play.prod.gcp.vix.services/gli-amici-giuda_pt/gli-amici-giuda_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,José, O Pai de Jesus tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-giuseppe_pt/gli-amici-giuseppe_pt_200x300.jpg" -José, O Pai de Jesus
+https://play.prod.gcp.vix.services/gli-amici-giuseppe_pt/gli-amici-giuseppe_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,José e Maria tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/joseph-mary_pt/joseph-mary_pt_200x300.jpg" -José e Maria
+https://play.prod.gcp.vix.services/joseph-mary_pt/joseph-mary_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,José tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/joseph_pt/joseph_pt_200x300.jpg" -José
+https://play.prod.gcp.vix.services/joseph_pt/joseph_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Jesus de Nazaré tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jesus-nazareth_pt/jesus-nazareth_pt_200x300.jpg" -Jesus de Nazaré
+https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_2500.m3u8
+#EXTINF:0,Jesus de Nazaré 1 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/jesus-nazareth_pt/thumbs/jesus-nazareth_pt_1-1.jpg" -Jesus de Nazaré 1
+https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_2500.m3u8
+#EXTINF:0,Jesus de Nazaré 2 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/jesus-nazareth_pt/thumbs/jesus-nazareth_pt_1-2.jpg" -Jesus de Nazaré 2
+https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-2/hls_2500.m3u8
+#EXTINF:0,Jesus de Nazaré 3 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/jesus-nazareth_pt/thumbs/jesus-nazareth_pt_1-3.jpg" -Jesus de Nazaré 3
+https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-3/hls_2500.m3u8
+#EXTINF:0,Jesus de Nazaré 4 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/jesus-nazareth_pt/thumbs/jesus-nazareth_pt_1-4.jpg" -Jesus de Nazaré 4
+https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-4/hls_2500.m3u8
+#EXTINF:0,Jesus tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jesus_pt/jesus_pt_200x300.jpg" -Jesus
+https://play.prod.gcp.vix.services/jesus_pt/jesus_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Jeremias tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jeremiah_pt/jeremiah_pt_200x300.jpg" -Jeremias
+https://play.prod.gcp.vix.services/jeremiah_pt/jeremiah_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Jacó tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jacob_pt/jacob_pt_200x300.jpg" -Jacó
+https://play.prod.gcp.vix.services/jacob_pt/jacob_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Gênesis tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/genesi-creazione-diluvio_pt/genesi-creazione-diluvio_pt_200x300.jpg" -Gênesis
+https://play.prod.gcp.vix.services/genesi-creazione-diluvio_pt/genesi-creazione-diluvio_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Esther, a Rainha da Pérsia tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/esther_pt/esther_pt_200x300.jpg" -Esther, a Rainha da Pérsia
+https://play.prod.gcp.vix.services/esther_pt/esther_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Davi e Golias tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/david-goliath_pt/david-goliath_pt_200x300.jpg" -Davi e Golias
+https://play.prod.gcp.vix.services/david-goliath_pt/david-goliath_pt_1-1/hls_2500.m3u8
+#EXTINF:0,Davi Vs. Golias - A Batalha da Fé tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/david-goliath-2016_pt/david-goliath-2016_pt_200x300.jpg" -Davi Vs. Golias - A Batalha da Fé
+https://play.prod.gcp.vix.services/david-goliath-2016_pt/david-goliath-2016_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Davi tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/david_pt/david_pt_200x300.jpg" -Davi
+https://play.prod.gcp.vix.services/david_pt/david_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Daniel Na Cova Dos Leões tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/daniel-lions_pt/daniel-lions_pt_200x300.jpg" -Daniel Na Cova Dos Leões
+https://play.prod.gcp.vix.services/daniel-lions_pt/daniel-lions_pt_1-1/hls_2500.m3u8
+#EXTINF:0,Abraão tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/abraham_pt/abraham_pt_200x300.jpg" -Abraão
+https://play.prod.gcp.vix.services/abraham_pt/abraham_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,A experiência de Natal 2 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/christmas-experience_pt/christmas-experience_pt_200x300.jpg" -A experiência de Natal
+https://play.prod.gcp.vix.services/christmas-experience_pt/christmas-experience_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,A Experiência da Páscoa tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/christmas-experience_pt/christmas-experience_pt_200x300.jpg" -A Experiência da Páscoa
+https://play.prod.gcp.vix.services/easter-experience_pt/easter-experience_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,A Estrela Guia tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/chasing-star_en/chasing-star_en_200x300.jpg" -A Estrela Guia
+https://play.prod.gcp.vix.services/chasing-star_en/chasing-star_en_1-1/play_v1_hls_720p.m3u8
+
 #EXTM3U url-tvg=" http://grade-de-series.xml "
 
  ############## series ################ #   
@@ -692,6 +754,9 @@ https://e-8.dokicloud.one/_v8/426dd31f1a731714111659b0a1756ce85dcb6258fcfaac3610
  ############## infantil ################ # 
 
 #EXTINF:-1 tvg-id=" iddocanaldeinfantil " group-title="
+
+#EXTINF:0,Ploddy tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://ottvsimg.ottvs.com.br/ban/led.235891/looke_4001.jpg?900994678" -Ploddy
+https://www130.ff-01.com/token=gc3UvBJCLH6UhMmxgq9ayA/1670658834/45.167.0.0/196/c/1d/27c00bf26bce4adc970c45c4abdca1dc-480p.mp4
 
 #EXTINF:0,Tartarugas Ninjas tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://pa1.narvii.com/6902/c2eebcbb24b4128a19de9eb223acbbe3addb9972r1-500-280_hq.gif" -Tartarugas Ninjas
 https://play.prod.gcp.vix.services/teenage-mutant-ninja-turtles_pt/teenage-mutant-ninja-turtles_pt_1-1/hls_2500.m3u8
@@ -1581,6 +1646,9 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
  ############## nao ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldenao " group-title="
 
+#EXTINF:0,ppp tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -ppp
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/665
+
 #EXTINF:0,Atribulado (1929) tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://media.tenor.com/GJQuOocp5iMAAAAC/so-que-nao-nope.gif" -Atribulado
 https://cdn77-vid.xvideos-cdn.com/vnCQ_MOd6w9sdn_4QSj9Kg==,1670470231/videos/hls/83/2b/97/832b970dc10960ef0e7e48efca623499-1/hls-720p.m3u8
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
@@ -1809,7 +1877,6 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/661
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/662
 #EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/663
-#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1 
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/664
 #EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/665
