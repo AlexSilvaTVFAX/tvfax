@@ -671,7 +671,8 @@ https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m
 
 #EXTINF:0,Maria, Maria Madalena tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_200x300.jpg" -Maria Madalena
 https://play.prod.gcp.vix.services/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Judas, Judas tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-giuda_pt/gli-amici-giuda_pt_200x300.jpg" -Judas
+#EXTINF:0,Judas tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-giuda_pt/gli-amici-giuda_pt_200x300.jpg" -Judas
+
 https://play.prod.gcp.vix.services/gli-amici-giuda_pt/gli-amici-giuda_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,José, O Pai de Jesus tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-giuseppe_pt/gli-amici-giuseppe_pt_200x300.jpg" -José, O Pai de Jesus
 https://play.prod.gcp.vix.services/gli-amici-giuseppe_pt/gli-amici-giuseppe_pt_1-1/play_v1_hls_1080p.m3u8
