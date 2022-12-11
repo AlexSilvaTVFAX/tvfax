@@ -6,11 +6,11 @@
 
 #EXTINF:-1 tvg-id=" iddocanalderadiofax" group-title="
 
-#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR
+#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR, Radio Fax O Amor esta no aR
 http://stream.zeno.fm/hu70hmkcu68uv
-#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR
+#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR, Radio Fax O Amor esta no aR
 http://stream.zeno.fm/hu70hmkcu68uv.m3u
-#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR
+#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR, Radio Fax O Amor esta no aR
 http://stream.zeno.fm/hu70hmkcu68uv.pls
 
 #EXTM3U url-tvg=" http://grade-de-TVFAX.xml "
