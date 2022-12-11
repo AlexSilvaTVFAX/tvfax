@@ -671,32 +671,32 @@ https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m
 
 #EXTINF:0,Maria, Maria Madalena tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_200x300.jpg" -Maria Madalena
 https://play.prod.gcp.vix.services/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Judas tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-giuda_pt/gli-amici-giuda_pt_200x300.jpg" -Judas
+#EXTINF:0,Judas,Judas tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-giuda_pt/gli-amici-giuda_pt_200x300.jpg" -Judas, Judas
 
 https://play.prod.gcp.vix.services/gli-amici-giuda_pt/gli-amici-giuda_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,José, O Pai de Jesus tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-giuseppe_pt/gli-amici-giuseppe_pt_200x300.jpg" -José, O Pai de Jesus
 https://play.prod.gcp.vix.services/gli-amici-giuseppe_pt/gli-amici-giuseppe_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,José, José e Maria tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/joseph-mary_pt/joseph-mary_pt_200x300.jpg" -José e Maria
+#EXTINF:0,José, José e Maria tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/joseph-mary_pt/joseph-mary_pt_200x300.jpg" -José, José e Maria
 https://play.prod.gcp.vix.services/joseph-mary_pt/joseph-mary_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,José, Jesé tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/joseph_pt/joseph_pt_200x300.jpg" -José
+#EXTINF:0,José, Jesé tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/joseph_pt/joseph_pt_200x300.jpg" -José,José
 https://play.prod.gcp.vix.services/joseph_pt/joseph_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Jesus,JESUS de Nazaré tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jesus-nazareth_pt/jesus-nazareth_pt_200x300.jpg" -Jesus de Nazaré
+#EXTINF:0,Jesus, Jesus de Nazaré tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jesus-nazareth_pt/jesus-nazareth_pt_200x300.jpg" -Jesus, Jesus de Nazaré
 https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_2500.m3u8
-#EXTINF:0,Jesus,JESUS de Nazaré 1 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/jesus-nazareth_pt/thumbs/jesus-nazareth_pt_1-1.jpg" -Jesus de Nazaré 1
+#EXTINF:0,Jesus, Jesus de Nazaré 1 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/jesus-nazareth_pt/thumbs/jesus-nazareth_pt_1-1.jpg" -Jesus, Jesus de Nazaré 1
 https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_2500.m3u8
-#EXTINF:0,Jesus, JESUS de Nazaré 2 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/jesus-nazareth_pt/thumbs/jesus-nazareth_pt_1-2.jpg" -Jesus de Nazaré 2
+#EXTINF:0,JJesus, Jesus de Nazaré 2 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/jesus-nazareth_pt/thumbs/jesus-nazareth_pt_1-2.jpg" -Jesus, Jesus de Nazaré 2
 https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-2/hls_2500.m3u8
-#EXTINF:0,Jesus, JESUS de Nazaré 3 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/jesus-nazareth_pt/thumbs/jesus-nazareth_pt_1-3.jpg" -Jesus de Nazaré 3
+#EXTINF:0,Jesus, Jesus de Nazaré 3 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/jesus-nazareth_pt/thumbs/jesus-nazareth_pt_1-3.jpg" -Jesus, Jesus de Nazaré 3
 https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-3/hls_2500.m3u8
-#EXTINF:0,Jesus, JESUS de Nazaré 4 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/jesus-nazareth_pt/thumbs/jesus-nazareth_pt_1-4.jpg" -Jesus de Nazaré 4
+#EXTINF:0,Jesus, Jesus de Nazaré 4 tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/jesus-nazareth_pt/thumbs/jesus-nazareth_pt_1-4.jpg" -Jesus, Jesus de Nazaré 4
 https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-4/hls_2500.m3u8
-#EXTINF:0,Jesus,JESUS tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jesus_pt/jesus_pt_200x300.jpg" -Jesus
+#EXTINF:0,Jesus, Jesus tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jesus_pt/jesus_pt_200x300.jpg" -Jesus, Jesus
 https://play.prod.gcp.vix.services/jesus_pt/jesus_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Jeremias, tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jeremiah_pt/jeremiah_pt_200x300.jpg" -Jeremias
+#EXTINF:0,Jeremias, Jeremias tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jeremiah_pt/jeremiah_pt_200x300.jpg" -Jeremias, Jeremias
 https://play.prod.gcp.vix.services/jeremiah_pt/jeremiah_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Jacó, tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jacob_pt/jacob_pt_200x300.jpg" -Jacó
+#EXTINF:0,Jacó,Jacó tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jacob_pt/jacob_pt_200x300.jpg" -Jacó,Jacó
 https://play.prod.gcp.vix.services/jacob_pt/jacob_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Gênesis, tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/genesi-creazione-diluvio_pt/genesi-creazione-diluvio_pt_200x300.jpg" -Gênesis
+#EXTINF:0,Gênesis,Gênesis tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/genesi-creazione-diluvio_pt/genesi-creazione-diluvio_pt_200x300.jpg" -Gênesis,Gênesis
 https://play.prod.gcp.vix.services/genesi-creazione-diluvio_pt/genesi-creazione-diluvio_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,Esther, a Rainha da Pérsia tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/esther_pt/esther_pt_200x300.jpg" -Esther, a Rainha da Pérsia
 https://play.prod.gcp.vix.services/esther_pt/esther_pt_1-1/play_v1_hls_1080p.m3u8
